@@ -2,8 +2,7 @@
 
 **Tools:** Power BI | DAX | Excel / CSV  
 
-An **interactive dashboard** analyzing sales trends for Joe’s Italian Ice. Correlates **flavor popularity, seasonal demand, and weather** to provide actionable business insights. Perfect for showcasing Power BI skills in a portfolio.
-
+An **interactive dashboard** analyzing sales trends for Joe’s Italian Ice. Correlates **flavor popularity, seasonal demand, and weather** to provide actionable business insights. 
 ---
 
 ## 🚀 Key Features
