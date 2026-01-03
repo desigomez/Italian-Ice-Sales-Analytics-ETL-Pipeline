@@ -21,5 +21,4 @@ An **interactive dashboard** analyzing sales trends for Joe’s Italian Ice. Cor
 
 ---
 
-## 📷 Preview
-![Dashboard Screenshot](overviewJoes.png)
+
