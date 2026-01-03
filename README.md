@@ -1,12 +1,25 @@
-# Joes-Italian-Ice-Dashboard
-This interactive dashboard analyzes sales trends for Joe’s Italian Ice, correlating flavor popularity, seasonal demand, and external factors like weather.
-It demonstrates key Power BI skills including:
-Building custom DAX measures to calculate totals, averages, and correlations
-Designing interactive visuals with slicers, tooltips, and stacked column charts
-Creating a clear date hierarchy for monthly and weekly sales analysis
-Presenting actionable insights for business decisions, such as peak sales periods and top-selling flavors
-The dashboard uses mocked real-world data to showcase reporting and visualization skills and is intended for portfolio demonstration.
-Project Highlights:
-Clean, intuitive dashboard layout suitable for management reporting
-Insights that could guide inventory planning, staffing, and promotions
-Demonstrates end-to-end Power BI workflow: data prep → model → visualization → publish
+# 🍧 Joe’s Italian Ice Dashboard
+
+**Tools:** Power BI | DAX | Excel / CSV  
+
+An **interactive dashboard** analyzing sales trends for Joe’s Italian Ice. Correlates **flavor popularity, seasonal demand, and weather** to provide actionable business insights. Perfect for showcasing Power BI skills in a portfolio.
+
+---
+
+## 🚀 Key Features
+- **Interactive Visuals:** Slicers, tooltips, and stacked column charts  
+- **Custom DAX Measures:** Totals, averages, and correlations  
+- **Date Hierarchy:** Months, weeks, and days sorted intuitively  
+- **Actionable Insights:** Peak sales periods, top flavors, and trends
+
+---
+
+## 💡 Highlights
+- Clean and intuitive **dashboard layout** for management reporting  
+- Demonstrates **end-to-end Power BI workflow**: data prep → model → visualization → publish  
+- Insights could guide **inventory, staffing, and promotions**
+
+---
+
+## 📷 Preview
+![Dashboard Screenshot](overviewJoes.png)
