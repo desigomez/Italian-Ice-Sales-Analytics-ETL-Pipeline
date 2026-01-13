@@ -1,0 +1,2563 @@
+Day,Date,Grand Sales,Special Note,High Temp,Low Temp,Flavor,Made,Used
+Monday,1/1/24,23056.64,New Years Day,66,47,BBC,6,5
+Monday,1/1/24,23056.64,New Years Day,66,47,WC,22,14
+Monday,1/1/24,23056.64,New Years Day,66,47,MT,23,8
+Monday,1/1/24,23056.64,New Years Day,66,47,ST,10,6
+Monday,1/1/24,23056.64,New Years Day,66,47,FW/WT,6,4
+Monday,1/1/24,23056.64,New Years Day,66,47,Lemon,2,2
+Monday,1/1/24,23056.64,New Years Day,66,47,Extras,45,44
+Tuesday,1/2/24,17176.32,NA,66,44,BBC,5,3
+Tuesday,1/2/24,17176.32,NA,66,44,WC,20,12
+Tuesday,1/2/24,17176.32,NA,66,44,MT,15,7
+Tuesday,1/2/24,17176.32,NA,66,44,ST,11,8
+Tuesday,1/2/24,17176.32,NA,66,44,FW/WT,6,6
+Tuesday,1/2/24,17176.32,NA,66,44,Lemon,2,2
+Tuesday,1/2/24,17176.32,NA,66,44,Extras,40,32
+Wednesday,1/3/24,15762.87,NA,63,48,BBC,3,1
+Wednesday,1/3/24,15762.87,NA,63,48,WC,16,1
+Wednesday,1/3/24,15762.87,NA,63,48,MT,2,6
+Wednesday,1/3/24,15762.87,NA,63,48,ST,8,2
+Wednesday,1/3/24,15762.87,NA,63,48,FW/WT,6,2
+Wednesday,1/3/24,15762.87,NA,63,48,Lemon,2,2
+Wednesday,1/3/24,15762.87,NA,63,48,Extras,38,30
+Thursday,1/4/24,16591.96,NA,64,41,BBC,4,2
+Thursday,1/4/24,16591.96,NA,64,41,WC,15,12
+Thursday,1/4/24,16591.96,NA,64,41,MT,36,5
+Thursday,1/4/24,16591.96,NA,64,41,ST,7,5
+Thursday,1/4/24,16591.96,NA,64,41,FW/WT,8,6
+Thursday,1/4/24,16591.96,NA,64,41,Lemon,2,2
+Thursday,1/4/24,16591.96,NA,64,41,Extras,39,31
+Friday,1/5/24,22423.06,NA,66,42,BBC,6,2
+Friday,1/5/24,22423.06,NA,66,42,WC,18,13
+Friday,1/5/24,22423.06,NA,66,42,MT,31,7
+Friday,1/5/24,22423.06,NA,66,42,ST,10,7
+Friday,1/5/24,22423.06,NA,66,42,FW/WT,5,2
+Friday,1/5/24,22423.06,NA,66,42,Lemon,2,2
+Friday,1/5/24,22423.06,NA,66,42,Extras,42,31
+Saturday,1/6/24,24330.87,NA,65,41,BBC,5,3
+Saturday,1/6/24,24330.87,NA,65,41,WC,20,17
+Saturday,1/6/24,24330.87,NA,65,41,MT,15,9
+Saturday,1/6/24,24330.87,NA,65,41,ST,12,9
+Saturday,1/6/24,24330.87,NA,65,41,FW/WT,5,7
+Saturday,1/6/24,24330.87,NA,65,41,Lemon,2,2
+Saturday,1/6/24,24330.87,NA,65,41,Extras,49,48
+Sunday,1/7/24,19244.62,NA,62,42,BBC,5,2
+Sunday,1/7/24,19244.62,NA,62,42,WC,20,7
+Sunday,1/7/24,19244.62,NA,62,42,MT,15,2
+Sunday,1/7/24,19244.62,NA,62,42,ST,12,4
+Sunday,1/7/24,19244.62,NA,62,42,FW/WT,5,4
+Sunday,1/7/24,19244.62,NA,62,42,Lemon,2,1
+Sunday,1/7/24,19244.62,NA,62,42,Extras,49,212
+Monday,1/8/24,10626.52,NA,63,39,BBC,4,2
+Monday,1/8/24,10626.52,NA,63,39,WC,11,7
+Monday,1/8/24,10626.52,NA,63,39,MT,31,2
+Monday,1/8/24,10626.52,NA,63,39,ST,8,4
+Monday,1/8/24,10626.52,NA,63,39,FW/WT,4,4
+Monday,1/8/24,10626.52,NA,63,39,Lemon,1,1
+Monday,1/8/24,10626.52,NA,63,39,Extras,30,21
+Tuesday,1/9/24,12271.04,NA,64,38,BBC,2,1
+Tuesday,1/9/24,12271.04,NA,64,38,WC,12,8
+Tuesday,1/9/24,12271.04,NA,64,38,MT,29,3
+Tuesday,1/9/24,12271.04,NA,64,38,ST,4,3
+Tuesday,1/9/24,12271.04,NA,64,38,FW/WT,2,1
+Tuesday,1/9/24,12271.04,NA,64,38,Lemon,1,1
+Tuesday,1/9/24,12271.04,NA,64,38,Extras,27,22
+Wednesday,1/10/24,10938.63,NA,62,41,BBC,4,2
+Wednesday,1/10/24,10938.63,NA,62,41,WC,10,7
+Wednesday,1/10/24,10938.63,NA,62,41,MT,34,5
+Wednesday,1/10/24,10938.63,NA,62,41,ST,5,3
+Wednesday,1/10/24,10938.63,NA,62,41,FW/WT,5,2
+Wednesday,1/10/24,10938.63,NA,62,41,Lemon,1,1
+Wednesday,1/10/24,10938.63,NA,62,41,Extras,28,20
+Thursday,1/11/24,11850.08,NA,64,47,BBC,2,1
+Thursday,1/11/24,11850.08,NA,64,47,WC,11,10
+Thursday,1/11/24,11850.08,NA,64,47,MT,40,3
+Thursday,1/11/24,11850.08,NA,64,47,ST,4,3
+Thursday,1/11/24,11850.08,NA,64,47,FW/WT,4,3
+Thursday,1/11/24,11850.08,NA,64,47,Lemon,1,2
+Thursday,1/11/24,11850.08,NA,64,47,Extras,28,20
+Friday,1/12/24,18576.86,NA,64,41,BBC,5,3
+Friday,1/12/24,18576.86,NA,64,41,WC,20,14
+Friday,1/12/24,18576.86,NA,64,41,MT,37,7
+Friday,1/12/24,18576.86,NA,64,41,ST,7,5
+Friday,1/12/24,18576.86,NA,64,41,FW/WT,6,2
+Friday,1/12/24,18576.86,NA,64,41,Lemon,2,2
+Friday,1/12/24,18576.86,NA,64,41,Extras,46,41
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,BBC,6,3
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,WC,18,17
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,MT,30,7
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,ST,8,7
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,FW/WT,8,8
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,Lemon,2,2
+Saturday,1/13/24,"23,662.52",MLK Wknd,64,41,Extras,46,40
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,BBC,2,1
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,WC,12,8
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,MT,29,3
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,ST,4,3
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,FW/WT,2,
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,Lemon,1,1
+Sunday,1/14/24,24947.28,MLK Wknd,64,43,Extras,27,22
+Monday,1/15/24,17633.67,MLK Day,65,43,BBC,4,1
+Monday,1/15/24,17633.67,MLK Day,65,43,WC,10,10
+Monday,1/15/24,17633.67,MLK Day,65,43,MT,34,3
+Monday,1/15/24,17633.67,MLK Day,65,43,ST,5,3
+Monday,1/15/24,17633.67,MLK Day,65,43,FW/WT,5,3
+Monday,1/15/24,17633.67,MLK Day,65,43,Lemon,1,2
+Monday,1/15/24,17633.67,MLK Day,65,43,Extras,28,20
+Tuesday,1/16/24,12674.38,NA,68,46,BBC,5,4
+Tuesday,1/16/24,12674.38,NA,68,46,WC,20,14
+Tuesday,1/16/24,12674.38,NA,68,46,MT,37,7
+Tuesday,1/16/24,12674.38,NA,68,46,ST,7,5
+Tuesday,1/16/24,12674.38,NA,68,46,FW/WT,6,2
+Tuesday,1/16/24,12674.38,NA,68,46,Lemon,2,2
+Tuesday,1/16/24,12674.38,NA,68,46,Extras,46,41
+Wednesday,1/17/24,11187.46,NA,64,52,BBC,4,3
+Wednesday,1/17/24,11187.46,NA,64,52,WC,22,17
+Wednesday,1/17/24,11187.46,NA,64,52,MT,23,7
+Wednesday,1/17/24,11187.46,NA,64,52,ST,11,7
+Wednesday,1/17/24,11187.46,NA,64,52,FW/WT,8,8
+Wednesday,1/17/24,11187.46,NA,64,52,Lemon,2,2
+Wednesday,1/17/24,11187.46,NA,64,52,Extras,44,39
+Thursday,1/18/24,12199.3,NA,68,52,BBC,4,3
+Thursday,1/18/24,12199.3,NA,68,52,WC,16,13
+Thursday,1/18/24,12199.3,NA,68,52,MT,31,6
+Thursday,1/18/24,12199.3,NA,68,52,ST,8,6
+Thursday,1/18/24,12199.3,NA,68,52,FW/WT,2,2
+Thursday,1/18/24,12199.3,NA,68,52,Lemon,2,1
+Thursday,1/18/24,12199.3,NA,68,52,Extras,31,28
+Friday,1/19/24,21414.33,NA,66,49,BBC,2,2
+Friday,1/19/24,21414.33,NA,66,49,WC,11,8
+Friday,1/19/24,21414.33,NA,66,49,MT,25,3
+Friday,1/19/24,21414.33,NA,66,49,ST,4,3
+Friday,1/19/24,21414.33,NA,66,49,FW/WT,4,4
+Friday,1/19/24,21414.33,NA,66,49,Lemon,1,2
+Friday,1/19/24,21414.33,NA,66,49,Extras,29,22
+Saturday,1/20/24,20032.13,Rain,61,55,BBC,6,5
+Saturday,1/20/24,20032.13,Rain,61,55,WC,20,14
+Saturday,1/20/24,20032.13,Rain,61,55,MT,27,9
+Saturday,1/20/24,20032.13,Rain,61,55,ST,11,8
+Saturday,1/20/24,20032.13,Rain,61,55,FW/WT,7,6
+Saturday,1/20/24,20032.13,Rain,61,55,Lemon,2,2
+Saturday,1/20/24,20032.13,Rain,61,55,Extras,50,39
+Sunday,1/21/24,21636.07,Rain,63,55,BBC,5.5,3
+Sunday,1/21/24,21636.07,Rain,63,55,WC,22,22
+Sunday,1/21/24,21636.07,Rain,63,55,MT,18,3
+Sunday,1/21/24,21636.07,Rain,63,55,ST,11,9
+Sunday,1/21/24,21636.07,Rain,63,55,FW/WT,5,4
+Sunday,1/21/24,21636.07,Rain,63,55,Lemon,2,1.5
+Sunday,1/21/24,21636.07,Rain,63,55,Extras,44,40
+Monday,1/22/24,9685.31,NA,61,54,BBC,2.5,2.5
+Monday,1/22/24,9685.31,NA,61,54,WC,10,5
+Monday,1/22/24,9685.31,NA,61,54,MT,27,4
+Monday,1/22/24,9685.31,NA,61,54,ST,4.5,1.5
+Monday,1/22/24,9685.31,NA,61,54,FW/WT,2,1.5
+Monday,1/22/24,9685.31,NA,61,54,Lemon,1,1
+Monday,1/22/24,9685.31,NA,61,54,Extras,28,18.5
+Tuesday,1/23/24,11821.73,NA,66,53,BBC,2,1.5
+Tuesday,1/23/24,11821.73,NA,66,53,WC,13,6
+Tuesday,1/23/24,11821.73,NA,66,53,MT,23,3
+Tuesday,1/23/24,11821.73,NA,66,53,ST,5,4
+Tuesday,1/23/24,11821.73,NA,66,53,FW/WT,4,2
+Tuesday,1/23/24,11821.73,NA,66,53,Lemon,1,1
+Tuesday,1/23/24,11821.73,NA,66,53,Extras,29.5,19.5
+Wednesday,1/24/24,13006.52,NAMM,64,52,BBC,4,1
+Wednesday,1/24/24,13006.52,NAMM,64,52,WC,11,8
+Wednesday,1/24/24,13006.52,NAMM,64,52,MT,28,4
+Wednesday,1/24/24,13006.52,NAMM,64,52,ST,4,2
+Wednesday,1/24/24,13006.52,NAMM,64,52,FW/WT,4,4
+Wednesday,1/24/24,13006.52,NAMM,64,52,Lemon,1,1
+Wednesday,1/24/24,13006.52,NAMM,64,52,Extras,24,20
+Thursday,1/25/24,13946.65,NAMM,64,53,BBC,3,2.5
+Thursday,1/25/24,13946.65,NAMM,64,53,WC,11,9
+Thursday,1/25/24,13946.65,NAMM,64,53,MT,36,6.5
+Thursday,1/25/24,13946.65,NAMM,64,53,ST,4,4
+Thursday,1/25/24,13946.65,NAMM,64,53,FW/WT,2,2
+Thursday,1/25/24,13946.65,NAMM,64,53,Lemon,1,2
+Thursday,1/25/24,13946.65,NAMM,64,53,Extras,27,21
+Friday,1/26/24,23235.36,NAMM,74,47,BBC,4,3
+Friday,1/26/24,23235.36,NAMM,74,47,WC,22,17
+Friday,1/26/24,23235.36,NAMM,74,47,MT,29,9
+Friday,1/26/24,23235.36,NAMM,74,47,ST,8,7
+Friday,1/26/24,23235.36,NAMM,74,47,FW/WT,6,3
+Friday,1/26/24,23235.36,NAMM,74,47,Lemon,2,2
+Friday,1/26/24,23235.36,NAMM,74,47,Extras,50,49
+Saturday,1/27/24,31396.36,NAMM,79,50,BBC,7,3.5
+Saturday,1/27/24,31396.36,NAMM,79,50,WC,25,21
+Saturday,1/27/24,31396.36,NAMM,79,50,MT,20,12
+Saturday,1/27/24,31396.36,NAMM,79,50,ST,13,8
+Saturday,1/27/24,31396.36,NAMM,79,50,FW/WT,9,8
+Saturday,1/27/24,31396.36,NAMM,79,50,Lemon,2,2
+Saturday,1/27/24,31396.36,NAMM,79,50,Extras,60,46
+Sunday,1/28/24,27848.39,NAMM,78,54,BBC,7,4
+Sunday,1/28/24,27848.39,NAMM,78,54,WC,20,20
+Sunday,1/28/24,27848.39,NAMM,78,54,MT,12,7.5
+Sunday,1/28/24,27848.39,NAMM,78,54,ST,9,8
+Sunday,1/28/24,27848.39,NAMM,78,54,FW/WT,7,6
+Sunday,1/28/24,27848.39,NAMM,78,54,Lemon,2,2
+Sunday,1/28/24,27848.39,NAMM,78,54,Extras,58,50
+Monday,1/29/24,15066.63,NA,77,54,BBC,3,1.5
+Monday,1/29/24,15066.63,NA,77,54,WC,12,10
+Monday,1/29/24,15066.63,NA,77,54,MT,20,4.5
+Monday,1/29/24,15066.63,NA,77,54,ST,6,4.5
+Monday,1/29/24,15066.63,NA,77,54,FW/WT,5,2
+Monday,1/29/24,15066.63,NA,77,54,Lemon,2,0.5
+Monday,1/29/24,15066.63,NA,77,54,Extras,38,19
+Tuesday,1/30/24,15120.06,NA,74,49,BBC,2,1.5
+Tuesday,1/30/24,15120.06,NA,74,49,WC,10,10
+Tuesday,1/30/24,15120.06,NA,74,49,MT,16,4
+Tuesday,1/30/24,15120.06,NA,74,49,ST,5.5,4
+Tuesday,1/30/24,15120.06,NA,74,49,FW/WT,3.5,3.5
+Tuesday,1/30/24,15120.06,NA,74,49,Lemon,1,1
+Tuesday,1/30/24,15120.06,NA,74,49,Extras,26,20
+Wednesday,1/31/24,11980.99,NA,67,52,BBC,2.5,1.5
+Wednesday,1/31/24,11980.99,NA,67,52,WC,12,10.5
+Wednesday,1/31/24,11980.99,NA,67,52,MT,24,6.5
+Wednesday,1/31/24,11980.99,NA,67,52,ST,5,3
+Wednesday,1/31/24,11980.99,NA,67,52,FW/WT,5,2
+Wednesday,1/31/24,11980.99,NA,67,52,Lemon,1,1
+Wednesday,1/31/24,11980.99,NA,67,52,Extras,27,22
+Thursday,2/1/24,11285.51,NA,61,50,BBC,3,1
+Thursday,2/1/24,11285.51,NA,61,50,WC,13.5,7
+Thursday,2/1/24,11285.51,NA,61,50,MT,35,2.5
+Thursday,2/1/24,11285.51,NA,61,50,ST,4,4
+Thursday,2/1/24,11285.51,NA,61,50,FW/WT,4,1
+Thursday,2/1/24,11285.51,NA,61,50,Lemon,1,0.5
+Thursday,2/1/24,11285.51,NA,61,50,Extras,27,19
+Friday,2/2/24,19919.81,NA,61,49,BBC,4,2.5
+Friday,2/2/24,19919.81,NA,61,49,WC,18.5,15
+Friday,2/2/24,19919.81,NA,61,49,MT,31,12
+Friday,2/2/24,19919.81,NA,61,49,ST,8,6
+Friday,2/2/24,19919.81,NA,61,49,FW/WT,4.5,3
+Friday,2/2/24,19919.81,NA,61,49,Lemon,2,2
+Friday,2/2/24,19919.81,NA,61,49,Extras,46,35
+Saturday,2/3/24,26570.91,NA,64,47,BBC,4.5,3.5
+Saturday,2/3/24,26570.91,NA,64,47,WC,19,19
+Saturday,2/3/24,26570.91,NA,64,47,MT,23,11
+Saturday,2/3/24,26570.91,NA,64,47,ST,6.5,6
+Saturday,2/3/24,26570.91,NA,64,47,FW/WT,7.5,2
+Saturday,2/3/24,26570.91,NA,64,47,Lemon,2,2
+Saturday,2/3/24,26570.91,NA,64,47,Extras,46,43
+Sunday,2/4/24,16098.04,Rain,62,50,BBC,5,2.5
+Sunday,2/4/24,16098.04,Rain,62,50,WC,24,15
+Sunday,2/4/24,16098.04,Rain,62,50,MT,12,6
+Sunday,2/4/24,16098.04,Rain,62,50,ST,8,4
+Sunday,2/4/24,16098.04,Rain,62,50,FW/WT,,2.5
+Sunday,2/4/24,16098.04,Rain,62,50,Lemon,2,1.5
+Sunday,2/4/24,16098.04,Rain,62,50,Extras,51,41
+Monday,2/5/24,8392.94,Rain,60,53,BBC,3.5,1.5
+Monday,2/5/24,8392.94,Rain,60,53,WC,13,6
+Monday,2/5/24,8392.94,Rain,60,53,MT,22,5
+Monday,2/5/24,8392.94,Rain,60,53,ST,6,4
+Monday,2/5/24,8392.94,Rain,60,53,FW/WT,5.5,3.5
+Monday,2/5/24,8392.94,Rain,60,53,Lemon,2,1
+Monday,2/5/24,8392.94,Rain,60,53,Extras,35.5,23.5
+Tuesday,2/6/24,9624.11,Rain,57,50,BBC,2,1.5
+Tuesday,2/6/24,9624.11,Rain,57,50,WC,12,8
+Tuesday,2/6/24,9624.11,Rain,57,50,MT,17,2
+Tuesday,2/6/24,9624.11,Rain,57,50,ST,5,3
+Tuesday,2/6/24,9624.11,Rain,57,50,FW/WT,4,3
+Tuesday,2/6/24,9624.11,Rain,57,50,Lemon,1,1
+Tuesday,2/6/24,9624.11,Rain,57,50,Extras,34,21
+Wednesday,2/7/24,7046.75,Rain,60,47,BBC,2.5,2
+Wednesday,2/7/24,7046.75,Rain,60,47,WC,12,6
+Wednesday,2/7/24,7046.75,Rain,60,47,MT,29,6
+Wednesday,2/7/24,7046.75,Rain,60,47,ST,4,2.5
+Wednesday,2/7/24,7046.75,Rain,60,47,FW/WT,3,2
+Wednesday,2/7/24,7046.75,Rain,60,47,Lemon,1,1
+Wednesday,2/7/24,7046.75,Rain,60,47,Extras,27.5,20.5
+Thursday,2/8/24,12488.69,NA,58,45,BBC,2.5,2
+Thursday,2/8/24,12488.69,NA,58,45,WC,6,11
+Thursday,2/8/24,12488.69,NA,58,45,MT,6,7
+Thursday,2/8/24,12488.69,NA,58,45,ST,4.5,4
+Thursday,2/8/24,12488.69,NA,58,45,FW/WT,2,2
+Thursday,2/8/24,12488.69,NA,58,45,Lemon,1,1
+Thursday,2/8/24,12488.69,NA,58,45,Extras,20.5,19
+Friday,2/9/24,20323.91,NA,60,46,BBC,4.5,2
+Friday,2/9/24,20323.91,NA,60,46,WC,18,13
+Friday,2/9/24,20323.91,NA,60,46,MT,29,5
+Friday,2/9/24,20323.91,NA,60,46,ST,9,5
+Friday,2/9/24,20323.91,NA,60,46,FW/WT,6,4.5
+Friday,2/9/24,20323.91,NA,60,46,Lemon,2,1.5
+Friday,2/9/24,20323.91,NA,60,46,Extras,45,34
+Saturday,2/10/24,25460.64,NA,64,41,BBC,4.5,4
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,WC,22,22
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,MT,24,11.5
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,ST,10,7.5
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,FW/WT,5.5,5.5
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,Lemon,2,1.5
+Saturday,2/10/24,25460.64,Chinese New Year,64,41,Extras,54,47
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,BBC,4.5,2.5
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,WC,24.5,18
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,MT,12.5,5
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,ST,8.5,4.5
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,FW/WT,6,3.5
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,Lemon,2,1.5
+Sunday,2/11/24,22177.97,Super-Bowl,66,43,Extras,56.5,46
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,BBC,4,2
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,WC,18,14
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,MT,3.5,8.5
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,ST,8,4
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,FW/WT,6.5,4.5
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,Lemon,2,1.5
+Monday,2/12/24,15520.31,Lincoln's Birthday,68,43,Extras,41.5,28.5
+Tuesday,2/13/24,11189.44,NA,65,42,BBC,3,1.5
+Tuesday,2/13/24,11189.44,NA,65,42,WC,12,9
+Tuesday,2/13/24,11189.44,NA,65,42,MT,15,3
+Tuesday,2/13/24,11189.44,NA,65,42,ST,6,3
+Tuesday,2/13/24,11189.44,NA,65,42,FW/WT,4,3.5
+Tuesday,2/13/24,11189.44,NA,65,42,Lemon,2,1
+Tuesday,2/13/24,11189.44,NA,65,42,Extras,32,24
+Wednesday,2/14/24,16004.07,Valentines day,65,48,BBC,5.5,3.5
+Wednesday,2/14/24,16004.07,Valentines day,65,48,WC,20,20
+Wednesday,2/14/24,16004.07,Valentines day,65,48,MT,26,13
+Wednesday,2/14/24,16004.07,Valentines day,65,48,ST,7,7
+Wednesday,2/14/24,16004.07,Valentines day,65,48,FW/WT,4,4
+Wednesday,2/14/24,16004.07,Valentines day,65,48,Lemon,2,2
+Wednesday,2/14/24,16004.07,Valentines day,65,48,Extras,47,46
+Thursday,2/15/24,14685.09,NA,67,45,BBC,4,2.5
+Thursday,2/15/24,14685.09,NA,67,45,WC,16,14
+Thursday,2/15/24,14685.09,NA,67,45,MT,28,6
+Thursday,2/15/24,14685.09,NA,67,45,ST,4,3.5
+Thursday,2/15/24,14685.09,NA,67,45,FW/WT,4,2
+Thursday,2/15/24,14685.09,NA,67,45,Lemon,2,2
+Thursday,2/15/24,14685.09,NA,67,45,Extras,31,29
+Friday,2/16/24,24835.92,Cheer Comp,69,53,BBC,5.5,3
+Friday,2/16/24,24835.92,Cheer Comp,69,53,WC,22,15.5
+Friday,2/16/24,24835.92,Cheer Comp,69,53,MT,22,11
+Friday,2/16/24,24835.92,Cheer Comp,69,53,ST,9,8.5
+Friday,2/16/24,24835.92,Cheer Comp,69,53,FW/WT,8,5
+Friday,2/16/24,24835.92,Cheer Comp,69,53,Lemon,2,2
+Friday,2/16/24,24835.92,Cheer Comp,69,53,Extras,54,44
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,BBC,4.5,2
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,WC,31,25.5
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,MT,19,10
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,ST,13,9.5
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,FW/WT,7,6.5
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,Lemon,2,2
+Saturday,2/17/24,31057.13,Cheer Comp,65,52,Extras,64,58.5
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,BBC,6.5,4.5
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,WC,26,20
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,MT,13,11.5
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,ST,14,5.5
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,FW/WT,7,5.5
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,Lemon,2,2
+Sunday,2/18/24,31226.08,Cheer Comp and Pres Day,65,52,Extras,62,55
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,BBC,4,3
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,WC,20,12
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,MT,17.5,5
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,ST,10,6
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,FW/WT,5.5,4.5
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,Lemon,3,2
+Monday,2/19/24,16794.15,Pres Day and Rain,62,54,Extras,48.5,38
+Tuesday,2/20/24,10952.91,Rain,62,55,BBC,3,2
+Tuesday,2/20/24,10952.91,Rain,62,55,WC,12,8
+Tuesday,2/20/24,10952.91,Rain,62,55,MT,12,4
+Tuesday,2/20/24,10952.91,Rain,62,55,ST,5,2
+Tuesday,2/20/24,10952.91,Rain,62,55,FW/WT,5,4
+Tuesday,2/20/24,10952.91,Rain,62,55,Lemon,1,0.5
+Tuesday,2/20/24,10952.91,Rain,62,55,Extras,28,19
+Wednesday,2/21/24,14549.48,NA,68,52,BBC,3,2
+Wednesday,2/21/24,14549.48,NA,68,52,WC,14,10
+Wednesday,2/21/24,14549.48,NA,68,52,MT,28,8
+Wednesday,2/21/24,14549.48,NA,68,52,ST,5,4
+Wednesday,2/21/24,14549.48,NA,68,52,FW/WT,4,3
+Wednesday,2/21/24,14549.48,NA,68,52,Lemon,1,1
+Wednesday,2/21/24,14549.48,NA,68,52,Extras,26,17
+Thursday,2/22/24,16439.41,NA,67,49,BBC,5,2
+Thursday,2/22/24,16439.41,NA,67,49,WC,16,10
+Thursday,2/22/24,16439.41,NA,67,49,MT,32,5
+Thursday,2/22/24,16439.41,NA,67,49,ST,5,3
+Thursday,2/22/24,16439.41,NA,67,49,FW/WT,5,2
+Thursday,2/22/24,16439.41,NA,67,49,Lemon,2,2
+Thursday,2/22/24,16439.41,NA,67,49,Extras,40.5,30
+Friday,2/23/24,23983.68,NA,77,50,BBC,5,3
+Friday,2/23/24,23983.68,NA,77,50,WC,22,18
+Friday,2/23/24,23983.68,NA,77,50,MT,27,7
+Friday,2/23/24,23983.68,NA,77,50,ST,10,6
+Friday,2/23/24,23983.68,NA,77,50,FW/WT,6.5,6
+Friday,2/23/24,23983.68,NA,77,50,Lemon,2,2
+Friday,2/23/24,23983.68,NA,77,50,Extras,50,42
+Saturday,2/24/24,32195.49,NA,71,53,BBC,5,3.5
+Saturday,2/24/24,32195.49,NA,71,53,WC,24,22.5
+Saturday,2/24/24,32195.49,NA,71,53,MT,24,14
+Saturday,2/24/24,32195.49,NA,71,53,ST,10,9.5
+Saturday,2/24/24,32195.49,NA,71,53,FW/WT,6.5,4
+Saturday,2/24/24,32195.49,NA,71,53,Lemon,2,2
+Saturday,2/24/24,32195.49,NA,71,53,Extras,60.5,54
+Sunday,2/25/24,28482.19,NA,68,51,BBC,6.5,4.5
+Sunday,2/25/24,28482.19,NA,68,51,WC,25.5,25.5
+Sunday,2/25/24,28482.19,NA,68,51,MT,14,11
+Sunday,2/25/24,28482.19,NA,68,51,ST,8.5,6.5
+Sunday,2/25/24,28482.19,NA,68,51,FW/WT,8.5,6.5
+Sunday,2/25/24,28482.19,NA,68,51,Lemon,2,1.5
+Sunday,2/25/24,28482.19,NA,68,51,Extras,60,52
+Monday,2/26/24,11942.37,NA,64,52,BBC,3.5,1.5
+Monday,2/26/24,11942.37,NA,64,52,WC,12,9
+Monday,2/26/24,11942.37,NA,64,52,MT,19,3
+Monday,2/26/24,11942.37,NA,64,52,ST,6,3
+Monday,2/26/24,11942.37,NA,64,52,FW/WT,6,3
+Monday,2/26/24,11942.37,NA,64,52,Lemon,2,1
+Monday,2/26/24,11942.37,NA,64,52,Extras,35,21.5
+Tuesday,2/27/24,13529.5,NA,66,53,BBC,2,2
+Tuesday,2/27/24,13529.5,NA,66,53,WC,11,10
+Tuesday,2/27/24,13529.5,NA,66,53,MT,16,4
+Tuesday,2/27/24,13529.5,NA,66,53,ST,5,4.5
+Tuesday,2/27/24,13529.5,NA,66,53,FW/WT,5,4
+Tuesday,2/27/24,13529.5,NA,66,53,Lemon,2,1
+Tuesday,2/27/24,13529.5,NA,66,53,Extras,27.5,23
+Wednesday,2/28/24,15617.64,NA,72,48,BBC,4,2
+Wednesday,2/28/24,15617.64,NA,72,48,WC,13,10.5
+Wednesday,2/28/24,15617.64,NA,72,48,MT,24,6
+Wednesday,2/28/24,15617.64,NA,72,48,ST,6.5,3.5
+Wednesday,2/28/24,15617.64,NA,72,48,FW/WT,4,2
+Wednesday,2/28/24,15617.64,NA,72,48,Lemon,1,0.5
+Wednesday,2/28/24,15617.64,NA,72,48,Extras,30,25
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,BBC,2,2
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,WC,14.5,11.5
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,MT,34,5
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,ST,5,5
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,FW/WT,6,4
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,Lemon,2,1
+Thursday,2/29/24,12505.63,Hgai Heli Expo,64,55,Extras,31.5,28
+Friday,3/1/24,25052.94,NA,65,53,BBC,4,3
+Friday,3/1/24,25052.94,NA,65,53,WC,23,19
+Friday,3/1/24,25052.94,NA,65,53,MT,29,9
+Friday,3/1/24,25052.94,NA,65,53,ST,8,7
+Friday,3/1/24,25052.94,NA,65,53,FW/WT,4,3.5
+Friday,3/1/24,25052.94,NA,65,53,Lemon,2,1.5
+Friday,3/1/24,25052.94,NA,65,53,Extras,51.5,48
+Saturday,3/2/24,29700.87,NA,62,52,BBC,5,3
+Saturday,3/2/24,29700.87,NA,62,52,WC,24,22.5
+Saturday,3/2/24,29700.87,NA,62,52,MT,20,12
+Saturday,3/2/24,29700.87,NA,62,52,ST,9,7.5
+Saturday,3/2/24,29700.87,NA,62,52,FW/WT,4.5,4.5
+Saturday,3/2/24,29700.87,NA,62,52,Lemon,2,1.5
+Saturday,3/2/24,29700.87,NA,62,52,Extras,58.5,50
+Sunday,3/3/24,27325.22,NA,64,50,BBC,6,4
+Sunday,3/3/24,27325.22,NA,64,50,WC,25,20
+Sunday,3/3/24,27325.22,NA,64,50,MT,12,10.5
+Sunday,3/3/24,27325.22,NA,64,50,ST,7.5,7.5
+Sunday,3/3/24,27325.22,NA,64,50,FW/WT,6,4.5
+Sunday,3/3/24,27325.22,NA,64,50,Lemon,2,1.5
+Sunday,3/3/24,27325.22,NA,64,50,Extras,58,53
+Monday,3/4/24,14083.74,NA,65,47,BBC,3,1.5
+Monday,3/4/24,14083.74,NA,65,47,WC,13,7
+Monday,3/4/24,14083.74,NA,65,47,MT,17.5,4.5
+Monday,3/4/24,14083.74,NA,65,47,ST,6,6
+Monday,3/4/24,14083.74,NA,65,47,FW/WT,5.5,4
+Monday,3/4/24,14083.74,NA,65,47,Lemon,2,1.5
+Monday,3/4/24,14083.74,NA,65,47,Extras,33,23.5
+Tuesday,3/5/24,13929.01,NA,67,47,BBC,2.5,1.5
+Tuesday,3/5/24,13929.01,NA,67,47,WC,16,6
+Tuesday,3/5/24,13929.01,NA,67,47,MT,13,5
+Tuesday,3/5/24,13929.01,NA,67,47,ST,8,4
+Tuesday,3/5/24,13929.01,NA,67,47,FW/WT,5.5,3.5
+Tuesday,3/5/24,13929.01,NA,67,47,Lemon,2,1
+Tuesday,3/5/24,13929.01,NA,67,47,Extras,34,26
+Wednesday,3/6/24,9529.69,Rain,63,49,BBC,3,2
+Wednesday,3/6/24,9529.69,Rain,63,49,WC,12,78
+Wednesday,3/6/24,9529.69,Rain,63,49,MT,31,3
+Wednesday,3/6/24,9529.69,Rain,63,49,ST,6,3
+Wednesday,3/6/24,9529.69,Rain,63,49,FW/WT,4,3
+Wednesday,3/6/24,9529.69,Rain,63,49,Lemon,1,0.5
+Wednesday,3/6/24,9529.69,Rain,63,49,Extras,31,20
+Thursday,3/7/24,14516.83,NA,64,47,BBC,3,2
+Thursday,3/7/24,14516.83,NA,64,47,WC,13,11
+Thursday,3/7/24,14516.83,NA,64,47,MT,40,8
+Thursday,3/7/24,14516.83,NA,64,47,ST,5,4
+Thursday,3/7/24,14516.83,NA,64,47,FW/WT,4,2.5
+Thursday,3/7/24,14516.83,NA,64,47,Lemon,1,0.5
+Thursday,3/7/24,14516.83,NA,64,47,Extras,31,28
+Friday,3/8/24,19766.36,NA,71,47,BBC,5,3
+Friday,3/8/24,19766.36,NA,71,47,WC,22,15
+Friday,3/8/24,19766.36,NA,71,47,MT,34,7
+Friday,3/8/24,19766.36,NA,71,47,ST,8,8
+Friday,3/8/24,19766.36,NA,71,47,FW/WT,5.5,5.5
+Friday,3/8/24,19766.36,NA,71,47,Lemon,2,1.5
+Friday,3/8/24,19766.36,NA,71,47,Extras,50.5,46
+Saturday,3/9/24,31029.93,NA,72,48,BBC,6,5
+Saturday,3/9/24,31029.93,NA,72,48,WC,23,23
+Saturday,3/9/24,31029.93,NA,72,48,MT,27,13
+Saturday,3/9/24,31029.93,NA,72,48,ST,12,9
+Saturday,3/9/24,31029.93,NA,72,48,FW/WT,8,5
+Saturday,3/9/24,31029.93,NA,72,48,Lemon,2,11.5
+Saturday,3/9/24,31029.93,NA,72,48,Extras,60,59
+Sunday,3/10/24,29576.87,NA,70,46,BBC,5,5
+Sunday,3/10/24,29576.87,NA,70,46,WC,28,25.5
+Sunday,3/10/24,29576.87,NA,70,46,MT,14,11
+Sunday,3/10/24,29576.87,NA,70,46,ST,11,10.5
+Sunday,3/10/24,29576.87,NA,70,46,FW/WT,7,6.5
+Sunday,3/10/24,29576.87,NA,70,46,Lemon,2,1.5
+Sunday,3/10/24,29576.87,NA,70,46,Extras,60,51
+Monday,3/11/24,16248.4,NA,67,50,BBC,4,3.5
+Monday,3/11/24,16248.4,NA,67,50,WC,12,10.5
+Monday,3/11/24,16248.4,NA,67,50,MT,19,6.5
+Monday,3/11/24,16248.4,NA,67,50,ST,8,3.5
+Monday,3/11/24,16248.4,NA,67,50,FW/WT,4.5,3
+Monday,3/11/24,16248.4,NA,67,50,Lemon,2,1
+Monday,3/11/24,16248.4,NA,67,50,Extras,30,24
+Tuesday,3/12/24,15306.05,NA,67,53,BBC,3.5,1.5
+Tuesday,3/12/24,15306.05,NA,67,53,WC,13.5,13.5
+Tuesday,3/12/24,15306.05,NA,67,53,MT,28,5.5
+Tuesday,3/12/24,15306.05,NA,67,53,ST,4.5,3.5
+Tuesday,3/12/24,15306.05,NA,67,53,FW/WT,5.5,3.5
+Tuesday,3/12/24,15306.05,NA,67,53,Lemon,2,1
+Tuesday,3/12/24,15306.05,NA,67,53,Extras,35.5,29
+Wednesday,3/13/24,16353.31,Expo West,70,54,BBC,4,2.5
+Wednesday,3/13/24,16353.31,Expo West,70,54,WC,18,12
+Wednesday,3/13/24,16353.31,Expo West,70,54,MT,23,2
+Wednesday,3/13/24,16353.31,Expo West,70,54,ST,3,3
+Wednesday,3/13/24,16353.31,Expo West,70,54,FW/WT,4,2
+Wednesday,3/13/24,16353.31,Expo West,70,54,Lemon,2,1
+Wednesday,3/13/24,16353.31,Expo West,70,54,Extras,44,29
+Thursday,3/14/24,15136.53,Expo West,71,52,BBC,3,2
+Thursday,3/14/24,15136.53,Expo West,71,52,WC,14,14
+Thursday,3/14/24,15136.53,Expo West,71,52,MT,37,10
+Thursday,3/14/24,15136.53,Expo West,71,52,ST,6,5
+Thursday,3/14/24,15136.53,Expo West,71,52,FW/WT,6,5
+Thursday,3/14/24,15136.53,Expo West,71,52,Lemon,2,1.5
+Thursday,3/14/24,15136.53,Expo West,71,52,Extras,36,32
+Friday,3/15/24,21932.62,Expo West,67,51,BBC,5.5,3.5
+Friday,3/15/24,21932.62,Expo West,67,51,WC,24,19
+Friday,3/15/24,21932.62,Expo West,67,51,MT,27,5.5
+Friday,3/15/24,21932.62,Expo West,67,51,ST,9,6
+Friday,3/15/24,21932.62,Expo West,67,51,FW/WT,6,4
+Friday,3/15/24,21932.62,Expo West,67,51,Lemon,2,1.5
+Friday,3/15/24,21932.62,Expo West,67,51,Extras,55.5,40
+Saturday,3/16/24,31432.7,Expo West,68,51,BBC,4,2.5
+Saturday,3/16/24,31432.7,Expo West,68,51,WC,25,25
+Saturday,3/16/24,31432.7,Expo West,68,51,MT,21.5,12
+Saturday,3/16/24,31432.7,Expo West,68,51,ST,11,9
+Saturday,3/16/24,31432.7,Expo West,68,51,FW/WT,9,3
+Saturday,3/16/24,31432.7,Expo West,68,51,Lemon,2,1.5
+Saturday,3/16/24,31432.7,Expo West,68,51,Extras,63,57
+Sunday,3/17/24,30968.85,St. Patricks,70,48,BBC,5.5,4.5
+Sunday,3/17/24,30968.85,St. Patricks,70,48,WC,28,28
+Sunday,3/17/24,30968.85,St. Patricks,70,48,MT,13,9
+Sunday,3/17/24,30968.85,St. Patricks,70,48,ST,12,10
+Sunday,3/17/24,30968.85,St. Patricks,70,48,FW/WT,7,4
+Sunday,3/17/24,30968.85,St. Patricks,70,48,Lemon,2,1.5
+Sunday,3/17/24,30968.85,St. Patricks,70,48,Extras,57,53
+Monday,3/18/24,16186.03,Spring Break,77,50,BBC,5,2.5
+Monday,3/18/24,16186.03,Spring Break,77,50,WC,20,13
+Monday,3/18/24,16186.03,Spring Break,77,50,MT,20,12
+Monday,3/18/24,16186.03,Spring Break,77,50,ST,10,5.5
+Monday,3/18/24,16186.03,Spring Break,77,50,FW/WT,4,3
+Monday,3/18/24,16186.03,Spring Break,77,50,Lemon,2,1
+Monday,3/18/24,16186.03,Spring Break,77,50,Extras,37,27.5
+Tuesday,3/19/24,20189.32,Spring Break,73,51,BBC,2.5,2.5
+Tuesday,3/19/24,20189.32,Spring Break,73,51,WC,19,15
+Tuesday,3/19/24,20189.32,Spring Break,73,51,MT,12,7
+Tuesday,3/19/24,20189.32,Spring Break,73,51,ST,6.5,5
+Tuesday,3/19/24,20189.32,Spring Break,73,51,FW/WT,5,4
+Tuesday,3/19/24,20189.32,Spring Break,73,51,Lemon,2,1
+Tuesday,3/19/24,20189.32,Spring Break,73,51,Extras,38,31
+Wednesday,3/20/24,16987.5,Spring Break,73,52,BBC,4,2.5
+Wednesday,3/20/24,16987.5,Spring Break,73,52,WC,18,13.5
+Wednesday,3/20/24,16987.5,Spring Break,73,52,MT,24,5.5
+Wednesday,3/20/24,16987.5,Spring Break,73,52,ST,9.5,5.5
+Wednesday,3/20/24,16987.5,Spring Break,73,52,FW/WT,5.5,4
+Wednesday,3/20/24,16987.5,Spring Break,73,52,Lemon,2,1
+Wednesday,3/20/24,16987.5,Spring Break,73,52,Extras,42,33
+Thursday,3/21/24,19173.32,Spring Break,73,55,BBC,5,2
+Thursday,3/21/24,19173.32,Spring Break,73,55,WC,16,155
+Thursday,3/21/24,19173.32,Spring Break,73,55,MT,42,11
+Thursday,3/21/24,19173.32,Spring Break,73,55,ST,7.5,6.5
+Thursday,3/21/24,19173.32,Spring Break,73,55,FW/WT,5.5,4
+Thursday,3/21/24,19173.32,Spring Break,73,55,Lemon,2,1.5
+Thursday,3/21/24,19173.32,Spring Break,73,55,Extras,28.5,27
+Friday,3/22/24,26141.52,Spring Break,72,56,BBC,5,3
+Friday,3/22/24,26141.52,Spring Break,72,56,WC,25,20
+Friday,3/22/24,26141.52,Spring Break,72,56,MT,31,7
+Friday,3/22/24,26141.52,Spring Break,72,56,ST,11,7.5
+Friday,3/22/24,26141.52,Spring Break,72,56,FW/WT,9,5
+Friday,3/22/24,26141.52,Spring Break,72,56,Lemon,2,1.5
+Friday,3/22/24,26141.52,Spring Break,72,56,Extras,58,49
+Saturday,3/23/24,31218.11,Rain,65,54,BBC,6,5
+Saturday,3/23/24,31218.11,Rain,65,54,WC,29,29
+Saturday,3/23/24,31218.11,Rain,65,54,MT,27,18
+Saturday,3/23/24,31218.11,Rain,65,54,ST,15.5,10.5
+Saturday,3/23/24,31218.11,Rain,65,54,FW/WT,8.5,8.5
+Saturday,3/23/24,31218.11,Rain,65,54,Lemon,2,1.5
+Saturday,3/23/24,31218.11,Rain,65,54,Extras,62.5,61
+Sunday,3/24/24,28718.13,NA,65,49,BBC,5,4
+Sunday,3/24/24,28718.13,NA,65,49,WC,30,25
+Sunday,3/24/24,28718.13,NA,65,49,MT,17,9
+Sunday,3/24/24,28718.13,NA,65,49,ST,11,10
+Sunday,3/24/24,28718.13,NA,65,49,FW/WT,10,6.5
+Sunday,3/24/24,28718.13,NA,65,49,Lemon,2,1.5
+Sunday,3/24/24,28718.13,NA,65,49,Extras,62,55
+Monday,3/25/24,17935.73,Spring Break,67,45,BBC,5,2
+Monday,3/25/24,17935.73,Spring Break,67,45,WC,14,12.5
+Monday,3/25/24,17935.73,Spring Break,67,45,MT,24,5
+Monday,3/25/24,17935.73,Spring Break,67,45,ST,5,3
+Monday,3/25/24,17935.73,Spring Break,67,45,FW/WT,6.5,2.5
+Monday,3/25/24,17935.73,Spring Break,67,45,Lemon,2,1.5
+Monday,3/25/24,17935.73,Spring Break,67,45,Extras,37.5,28.5
+Tuesday,3/26/24,17662.06,Spring Break,68,53,BBC,3,2.5
+Tuesday,3/26/24,17662.06,Spring Break,68,53,WC,18,11
+Tuesday,3/26/24,17662.06,Spring Break,68,53,MT,19,3
+Tuesday,3/26/24,17662.06,Spring Break,68,53,ST,8,4
+Tuesday,3/26/24,17662.06,Spring Break,68,53,FW/WT,4,4
+Tuesday,3/26/24,17662.06,Spring Break,68,53,Lemon,2,1
+Tuesday,3/26/24,17662.06,Spring Break,68,53,Extras,38,32
+Wednesday,3/27/24,19901.5,Spring Break,70,48,BBC,5,2
+Wednesday,3/27/24,19901.5,Spring Break,70,48,WC,15,15
+Wednesday,3/27/24,19901.5,Spring Break,70,48,MT,24,10
+Wednesday,3/27/24,19901.5,Spring Break,70,48,ST,6,6
+Wednesday,3/27/24,19901.5,Spring Break,70,48,FW/WT,4,3
+Wednesday,3/27/24,19901.5,Spring Break,70,48,Lemon,2,1.5
+Wednesday,3/27/24,19901.5,Spring Break,70,48,Extras,43,34
+Thursday,3/28/24,21436.83,Spring Break,69,51,BBC,5,3.5
+Thursday,3/28/24,21436.83,Spring Break,69,51,WC,18,11
+Thursday,3/28/24,21436.83,Spring Break,69,51,MT,38,9.5
+Thursday,3/28/24,21436.83,Spring Break,69,51,ST,8,6.5
+Thursday,3/28/24,21436.83,Spring Break,69,51,FW/WT,5,5
+Thursday,3/28/24,21436.83,Spring Break,69,51,Lemon,2,1
+Thursday,3/28/24,21436.83,Spring Break,69,51,Extras,40,38
+Friday,3/29/24,29431.07,Wondercon,65,50,BBC,5,3.5
+Friday,3/29/24,29431.07,Wondercon,65,50,WC,24,20
+Friday,3/29/24,29431.07,Wondercon,65,50,MT,28,10
+Friday,3/29/24,29431.07,Wondercon,65,50,ST,9,8
+Friday,3/29/24,29431.07,Wondercon,65,50,FW/WT,8,6
+Friday,3/29/24,29431.07,Wondercon,65,50,Lemon,2,1
+Friday,3/29/24,29431.07,Wondercon,65,50,Extras,58,50
+Saturday,3/30/24,25300.93,Wondercon,59,51,BBC,6,4.5
+Saturday,3/30/24,25300.93,Wondercon,59,51,WC,32,16
+Saturday,3/30/24,25300.93,Wondercon,59,51,MT,18,10
+Saturday,3/30/24,25300.93,Wondercon,59,51,ST,13,7
+Saturday,3/30/24,25300.93,Wondercon,59,51,FW/WT,8,6
+Saturday,3/30/24,25300.93,Wondercon,59,51,Lemon,2,1.5
+Saturday,3/30/24,25300.93,Wondercon,59,51,Extras,64,50
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,BBC,4.5,3.5
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,WC,32,28
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,MT,17,10
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,ST,10,7
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,FW/WT,8,6
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,Lemon,2,2
+Sunday,3/31/24,24704.02,Wondercon and Easter,62,50,Extras,61,48
+Monday,4/1/24,21475.36,NA,68,46,BBC,6,3.5
+Monday,4/1/24,21475.36,NA,68,46,WC,17,17
+Monday,4/1/24,21475.36,NA,68,46,MT,19,11
+Monday,4/1/24,21475.36,NA,68,46,ST,5,5
+Monday,4/1/24,21475.36,NA,68,46,FW/WT,4,4
+Monday,4/1/24,21475.36,NA,68,46,Lemon,2,1
+Monday,4/1/24,21475.36,NA,68,46,Extras,38,34
+Tuesday,4/2/24,19520.28,NA,75,49,BBC,3,3
+Tuesday,4/2/24,19520.28,NA,75,49,WC,20,14
+Tuesday,4/2/24,19520.28,NA,75,49,MT,31,9
+Tuesday,4/2/24,19520.28,NA,75,49,ST,6,5.5
+Tuesday,4/2/24,19520.28,NA,75,49,FW/WT,4,3
+Tuesday,4/2/24,19520.28,NA,75,49,Lemon,2,1
+Tuesday,4/2/24,19520.28,NA,75,49,Extras,40,34
+Wednesday,4/3/24,20174.3,NA,76,51,BBC,4.5,3
+Wednesday,4/3/24,20174.3,NA,76,51,WC,18,15
+Wednesday,4/3/24,20174.3,NA,76,51,MT,43,6
+Wednesday,4/3/24,20174.3,NA,76,51,ST,8.5,5.5
+Wednesday,4/3/24,20174.3,NA,76,51,FW/WT,5,4
+Wednesday,4/3/24,20174.3,NA,76,51,Lemon,2,1
+Wednesday,4/3/24,20174.3,NA,76,51,Extras,42,37
+Thursday,4/4/24,20027.25,NA,62,50,BBC,5.5,2.5
+Thursday,4/4/24,20027.25,NA,62,50,WC,20.5,14.5
+Thursday,4/4/24,20027.25,NA,62,50,MT,44,9.5
+Thursday,4/4/24,20027.25,NA,62,50,ST,7,6.5
+Thursday,4/4/24,20027.25,NA,62,50,FW/WT,5,4
+Thursday,4/4/24,20027.25,NA,62,50,Lemon,2,1
+Thursday,4/4/24,20027.25,NA,62,50,Extras,41,38.5
+Friday,4/5/24,22796.41,APEX Expo,61,47,BBC,5,3
+Friday,4/5/24,22796.41,APEX Expo,61,47,WC,22,16
+Friday,4/5/24,22796.41,APEX Expo,61,47,MT,34,10
+Friday,4/5/24,22796.41,APEX Expo,61,47,ST,8,7
+Friday,4/5/24,22796.41,APEX Expo,61,47,FW/WT,9,7
+Friday,4/5/24,22796.41,APEX Expo,61,47,Lemon,2,2
+Friday,4/5/24,22796.41,APEX Expo,61,47,Extras,58,41
+Saturday,4/6/24,33161.36,APEX Expo,66,42,BBC,6,4
+Saturday,4/6/24,33161.36,APEX Expo,66,42,WC,28,25
+Saturday,4/6/24,33161.36,APEX Expo,66,42,MT,24,13
+Saturday,4/6/24,33161.36,APEX Expo,66,42,ST,12,12
+Saturday,4/6/24,33161.36,APEX Expo,66,42,FW/WT,8,7
+Saturday,4/6/24,33161.36,APEX Expo,66,42,Lemon,2,2
+Saturday,4/6/24,33161.36,APEX Expo,66,42,Extras,68,60
+Sunday,4/7/24,31946.94,APEX Expo,68,45,BBC,6,4
+Sunday,4/7/24,31946.94,APEX Expo,68,45,WC,29,25
+Sunday,4/7/24,31946.94,APEX Expo,68,45,MT,14,12
+Sunday,4/7/24,31946.94,APEX Expo,68,45,ST,13,9
+Sunday,4/7/24,31946.94,APEX Expo,68,45,FW/WT,6,6
+Sunday,4/7/24,31946.94,APEX Expo,68,45,Lemon,2,2
+Sunday,4/7/24,31946.94,APEX Expo,68,45,Extras,63,55
+Monday,4/8/24,16666.16,APEX Expo,74,46,BBC,4,2
+Monday,4/8/24,16666.16,APEX Expo,74,46,WC,15,11
+Monday,4/8/24,16666.16,APEX Expo,74,46,MT,19,3
+Monday,4/8/24,16666.16,APEX Expo,74,46,ST,7,5
+Monday,4/8/24,16666.16,APEX Expo,74,46,FW/WT,4,2
+Monday,4/8/24,16666.16,APEX Expo,74,46,Lemon,2,1
+Monday,4/8/24,16666.16,APEX Expo,74,46,Extras,39,33
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,BBC,4,2.5
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,WC,16,14
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,MT,16,5
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,ST,6,3
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,FW/WT,4,3
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,Lemon,2,1
+Tuesday,4/9/24,17964.79,APEX Expo,72,45,Extras,39,32
+Wednesday,4/10/24,15626.08,NA,82,53,BBC,3.5,2.5
+Wednesday,4/10/24,15626.08,NA,82,53,WC,18,15
+Wednesday,4/10/24,15626.08,NA,82,53,MT,31,6
+Wednesday,4/10/24,15626.08,NA,82,53,ST,7,3
+Wednesday,4/10/24,15626.08,NA,82,53,FW/WT,5,4
+Wednesday,4/10/24,15626.08,NA,82,53,Lemon,2,1
+Wednesday,4/10/24,15626.08,NA,82,53,Extras,41,34
+Thursday,4/11/24,20835.46,NA,80,54,BBC,3,2
+Thursday,4/11/24,20835.46,NA,80,54,WC,18,16
+Thursday,4/11/24,20835.46,NA,80,54,MT,53,13
+Thursday,4/11/24,20835.46,NA,80,54,ST,6,6
+Thursday,4/11/24,20835.46,NA,80,54,FW/WT,5,4
+Thursday,4/11/24,20835.46,NA,80,54,Lemon,2,1.5
+Thursday,4/11/24,20835.46,NA,80,54,Extras,41,39
+Friday,4/12/24,23853.8,Star Power,70,55,BBC,5,2
+Friday,4/12/24,23853.8,Star Power,70,55,WC,21,18
+Friday,4/12/24,23853.8,Star Power,70,55,MT,40,8
+Friday,4/12/24,23853.8,Star Power,70,55,ST,8,6
+Friday,4/12/24,23853.8,Star Power,70,55,FW/WT,8,4
+Friday,4/12/24,23853.8,Star Power,70,55,Lemon,2,1.5
+Friday,4/12/24,23853.8,Star Power,70,55,Extras,53,47
+Saturday,4/13/24,27406.75,Rain,66,51,BBC,3,2
+Saturday,4/13/24,27406.75,Rain,66,51,WC,29,16
+Saturday,4/13/24,27406.75,Rain,66,51,MT,32,10
+Saturday,4/13/24,27406.75,Rain,66,51,ST,14,6
+Saturday,4/13/24,27406.75,Rain,66,51,FW/WT,8,6
+Saturday,4/13/24,27406.75,Rain,66,51,Lemon,2,2
+Saturday,4/13/24,27406.75,Rain,66,51,Extras,47,39
+Sunday,4/14/24,24990.4,Rain,63,47,BBC,4,3
+Sunday,4/14/24,24990.4,Rain,63,47,WC,21,18
+Sunday,4/14/24,24990.4,Rain,63,47,MT,23,5
+Sunday,4/14/24,24990.4,Rain,63,47,ST,10,7
+Sunday,4/14/24,24990.4,Rain,63,47,FW/WT,6,4
+Sunday,4/14/24,24990.4,Rain,63,47,Lemon,2,2
+Sunday,4/14/24,24990.4,Rain,63,47,Extras,56,47
+Monday,4/15/24,16601.06,NA,70,49,BBC,4,2
+Monday,4/15/24,16601.06,NA,70,49,WC,17,10
+Monday,4/15/24,16601.06,NA,70,49,MT,18,6
+Monday,4/15/24,16601.06,NA,70,49,ST,11,6
+Monday,4/15/24,16601.06,NA,70,49,FW/WT,6,4
+Monday,4/15/24,16601.06,NA,70,49,Lemon,2,1
+Monday,4/15/24,16601.06,NA,70,49,Extras,41,30
+Tuesday,4/16/24,16314.45,NA,80,54,BBC,3,2
+Tuesday,4/16/24,16314.45,NA,80,54,WC,15,10
+Tuesday,4/16/24,16314.45,NA,80,54,MT,12,6
+Tuesday,4/16/24,16314.45,NA,80,54,ST,6,2
+Tuesday,4/16/24,16314.45,NA,80,54,FW/WT,4,3
+Tuesday,4/16/24,16314.45,NA,80,54,Lemon,1,1
+Tuesday,4/16/24,16314.45,NA,80,54,Extras,38,28
+Wednesday,4/17/24,16211.77,NA,78,53,BBC,4,2
+Wednesday,4/17/24,16211.77,NA,78,53,WC,17,13
+Wednesday,4/17/24,16211.77,NA,78,53,MT,30,7
+Wednesday,4/17/24,16211.77,NA,78,53,ST,4,4
+Wednesday,4/17/24,16211.77,NA,78,53,FW/WT,5,4
+Wednesday,4/17/24,16211.77,NA,78,53,Lemon,2,1.5
+Wednesday,4/17/24,16211.77,NA,78,53,Extras,43,36
+Thursday,4/18/24,18805.13,NA,75,55,BBC,5,3
+Thursday,4/18/24,18805.13,NA,75,55,WC,16,11
+Thursday,4/18/24,18805.13,NA,75,55,MT,39,4
+Thursday,4/18/24,18805.13,NA,75,55,ST,6,5
+Thursday,4/18/24,18805.13,NA,75,55,FW/WT,4,4
+Thursday,4/18/24,18805.13,NA,75,55,Lemon,2,1.5
+Thursday,4/18/24,18805.13,NA,75,55,Extras,43,37
+Friday,4/19/24,27060.82,FFF,72,55,BBC,4,4
+Friday,4/19/24,27060.82,FFF,72,55,WC,21,21
+Friday,4/19/24,27060.82,FFF,72,55,MT,38,13
+Friday,4/19/24,27060.82,FFF,72,55,ST,7,7
+Friday,4/19/24,27060.82,FFF,72,55,FW/WT,4,4
+Friday,4/19/24,27060.82,FFF,72,55,Lemon,2,1.5
+Friday,4/19/24,27060.82,FFF,72,55,Extras,56,54
+Saturday,4/20/24,33713.24,NA,75,55,BBC,6,4
+Saturday,4/20/24,33713.24,NA,75,55,WC,28,26
+Saturday,4/20/24,33713.24,NA,75,55,MT,25,14
+Saturday,4/20/24,33713.24,NA,75,55,ST,12,10
+Saturday,4/20/24,33713.24,NA,75,55,FW/WT,8,4
+Saturday,4/20/24,33713.24,NA,75,55,Lemon,2,2
+Saturday,4/20/24,33713.24,NA,75,55,Extras,66,62
+Sunday,4/21/24,34516.8,NA,79,54,BBC,5,3
+Sunday,4/21/24,34516.8,NA,79,54,WC,33,31
+Sunday,4/21/24,34516.8,NA,79,54,MT,15,14
+Sunday,4/21/24,34516.8,NA,79,54,ST,13,10
+Sunday,4/21/24,34516.8,NA,79,54,FW/WT,6,6
+Sunday,4/21/24,34516.8,NA,79,54,Lemon,2,2
+Sunday,4/21/24,34516.8,NA,79,54,Extras,72,60
+Monday,4/22/24,14754.41,NA,73,57,BBC,4,2
+Monday,4/22/24,14754.41,NA,73,57,WC,14,12
+Monday,4/22/24,14754.41,NA,73,57,MT,20,5
+Monday,4/22/24,14754.41,NA,73,57,ST,8,3
+Monday,4/22/24,14754.41,NA,73,57,FW/WT,4,23
+Monday,4/22/24,14754.41,NA,73,57,Lemon,2,1.5
+Monday,4/22/24,14754.41,NA,73,57,Extras,37,30
+Tuesday,4/23/24,15766.8,NA,69,56,BBC,4,2
+Tuesday,4/23/24,15766.8,NA,69,56,WC,14,13
+Tuesday,4/23/24,15766.8,NA,69,56,MT,15,5
+Tuesday,4/23/24,15766.8,NA,69,56,ST,4,3
+Tuesday,4/23/24,15766.8,NA,69,56,FW/WT,4,2
+Tuesday,4/23/24,15766.8,NA,69,56,Lemon,2,1.5
+Tuesday,4/23/24,15766.8,NA,69,56,Extras,36,33
+Wednesday,4/24/24,19095.49,NA,69,56,BBC,4,3
+Wednesday,4/24/24,19095.49,NA,69,56,WC,15,14
+Wednesday,4/24/24,19095.49,NA,69,56,MT,30,9
+Wednesday,4/24/24,19095.49,NA,69,56,ST,5,5
+Wednesday,4/24/24,19095.49,NA,69,56,FW/WT,4,3.5
+Wednesday,4/24/24,19095.49,NA,69,56,Lemon,2,1.5
+Wednesday,4/24/24,19095.49,NA,69,56,Extras,41,32
+Thursday,4/25/24,16976.69,NA,67,53,BBC,5,2
+Thursday,4/25/24,16976.69,NA,67,53,WC,19,16
+Thursday,4/25/24,16976.69,NA,67,53,MT,41,5
+Thursday,4/25/24,16976.69,NA,67,53,ST,6,4
+Thursday,4/25/24,16976.69,NA,67,53,FW/WT,4,2
+Thursday,4/25/24,16976.69,NA,67,53,Lemon,2,1.5
+Thursday,4/25/24,16976.69,NA,67,53,Extras,45,38
+Friday,4/26/24,24868.34,Angels Game,71,55,BBC,5,2
+Friday,4/26/24,24868.34,Angels Game,71,55,WC,19,13
+Friday,4/26/24,24868.34,Angels Game,71,55,MT,36,7
+Friday,4/26/24,24868.34,Angels Game,71,55,ST,6,6
+Friday,4/26/24,24868.34,Angels Game,71,55,FW/WT,6,4
+Friday,4/26/24,24868.34,Angels Game,71,55,Lemon,2,1.5
+Friday,4/26/24,24868.34,Angels Game,71,55,Extras,54,46
+Saturday,4/27/24,31590.08,NA,73,53,BBC,5,5
+Saturday,4/27/24,31590.08,NA,73,53,WC,21,21
+Saturday,4/27/24,31590.08,NA,73,53,MT,29,13
+Saturday,4/27/24,31590.08,NA,73,53,ST,10,10
+Saturday,4/27/24,31590.08,NA,73,53,FW/WT,4,4
+Saturday,4/27/24,31590.08,NA,73,53,Lemon,2,2
+Saturday,4/27/24,31590.08,NA,73,53,Extras,64,63
+Sunday,4/28/24,35863.59,NA,76,53,BBC,8,4
+Sunday,4/28/24,35863.59,NA,76,53,WC,32,32
+Sunday,4/28/24,35863.59,NA,76,53,MT,24,15
+Sunday,4/28/24,35863.59,NA,76,53,ST,20,12
+Sunday,4/28/24,35863.59,NA,76,53,FW/WT,8,8
+Sunday,4/28/24,35863.59,NA,76,53,Lemon,4,3
+Sunday,4/28/24,35863.59,NA,76,53,Extras,78,64
+Monday,4/29/24,21023.1,NA,77,54,BBC,4,2
+Monday,4/29/24,21023.1,NA,77,54,WC,16,15
+Monday,4/29/24,21023.1,NA,77,54,MT,21,8
+Monday,4/29/24,21023.1,NA,77,54,ST,8,4
+Monday,4/29/24,21023.1,NA,77,54,FW/WT,4,3
+Monday,4/29/24,21023.1,NA,77,54,Lemon,2,2
+Monday,4/29/24,21023.1,NA,77,54,Extras,40,40
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,BBC,4,2
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,WC,21,15
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,MT,13,10
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,ST,6,5
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,FW/WT,4,3
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,Lemon,2,1
+Tuesday,4/30/24,23630.91,Academ Conv,77,58,Extras,51,42
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,BBC,3,2
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,WC,18,15
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,MT,31,5
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,ST,8,6
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,FW/WT,4,2
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,Lemon,2,1.5
+Wednesday,5/1/24,18685.59,Floral Conv,74,59,Extras,49,40
+Thursday,5/2/24,16229.15,NA,76,58,BBC,4,2
+Thursday,5/2/24,16229.15,NA,76,58,WC,18,11
+Thursday,5/2/24,16229.15,NA,76,58,MT,46,38
+Thursday,5/2/24,16229.15,NA,76,58,ST,6,5
+Thursday,5/2/24,16229.15,NA,76,58,FW/WT,6,5
+Thursday,5/2/24,16229.15,NA,76,58,Lemon,2,2
+Thursday,5/2/24,16229.15,NA,76,58,Extras,46,30
+Friday,5/3/24,27068.19,NA,74,69,BBC,4,3
+Friday,5/3/24,27068.19,NA,74,69,WC,22,18
+Friday,5/3/24,27068.19,NA,74,69,MT,38,12
+Friday,5/3/24,27068.19,NA,74,69,ST,9,8
+Friday,5/3/24,27068.19,NA,74,69,FW/WT,9,5
+Friday,5/3/24,27068.19,NA,74,69,Lemon,2,2
+Friday,5/3/24,27068.19,NA,74,69,Extras,59,55
+Saturday,5/4/24,29481.02,May Fourth,71,57,BBC,5,3
+Saturday,5/4/24,29481.02,May Fourth,71,57,WC,32,19
+Saturday,5/4/24,29481.02,May Fourth,71,57,MT,26,13
+Saturday,5/4/24,29481.02,May Fourth,71,57,ST,20,9
+Saturday,5/4/24,29481.02,May Fourth,71,57,FW/WT,8,8
+Saturday,5/4/24,29481.02,May Fourth,71,57,Lemon,4,2
+Saturday,5/4/24,29481.02,May Fourth,71,57,Extras,64,52
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,BBC,6,4
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,WC,29,23
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,MT,17,9
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,ST,13,9
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,FW/WT,4,3
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,Lemon,2,2
+Sunday,5/5/24,29133.29,Cinco de Mayo,70,54,Extras,66,61
+Monday,5/6/24,15513.8,IEEE Conv,75,50,BBC,4,4
+Monday,5/6/24,15513.8,IEEE Conv,75,50,WC,18,16
+Monday,5/6/24,15513.8,IEEE Conv,75,50,MT,26,8
+Monday,5/6/24,15513.8,IEEE Conv,75,50,ST,12,5
+Monday,5/6/24,15513.8,IEEE Conv,75,50,FW/WT,4,2
+Monday,5/6/24,15513.8,IEEE Conv,75,50,Lemon,2,1
+Monday,5/6/24,15513.8,IEEE Conv,75,50,Extras,41,34
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,BBC,4,3
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,WC,18,14
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,MT,18,5
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,ST,7,4
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,FW/WT,6,4
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,Lemon,2,1
+Tuesday,5/7/24,16508.51,IEEE Conv,74,51,Extras,40,33
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,BBC,3,3
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,WC,16,12
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,MT,33,4
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,ST,5,5
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,FW/WT,6,5
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,Lemon,2,2
+Wednesday,5/8/24,16776.41,IEEE Conv,76,54,Extras,38,31
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,BBC,4,3
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,WC,17,11
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,MT,40,5
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,ST,6,5
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,FW/WT,5,4
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,Lemon,2,1.5
+Thursday,5/9/24,18439.24,IEEE Conv,76,56,Extras,41,37
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,BBC,3,2
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,WC,21,15
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,MT,33,14
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,ST,9,6.5
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,FW/WT,7,3
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,Lemon,2,1.5
+Friday,5/10/24,23804.72,Mexican Mothers Day,76,57,Extras,58,49
+Saturday,5/11/24,33099.7,NA,75,57,BBC,4,4
+Saturday,5/11/24,33099.7,NA,75,57,WC,32,27
+Saturday,5/11/24,33099.7,NA,75,57,MT,23,16
+Saturday,5/11/24,33099.7,NA,75,57,ST,18,11
+Saturday,5/11/24,33099.7,NA,75,57,FW/WT,12,10
+Saturday,5/11/24,33099.7,NA,75,57,Lemon,2,2
+Saturday,5/11/24,33099.7,NA,75,57,Extras,64,53
+Sunday,5/12/24,29372.16,Mothers Day,78,58,BBC,8,6
+Sunday,5/12/24,29372.16,Mothers Day,78,58,WC,37,30
+Sunday,5/12/24,29372.16,Mothers Day,78,58,MT,18,17
+Sunday,5/12/24,29372.16,Mothers Day,78,58,ST,15,9
+Sunday,5/12/24,29372.16,Mothers Day,78,58,FW/WT,10,7
+Sunday,5/12/24,29372.16,Mothers Day,78,58,Lemon,4,3
+Sunday,5/12/24,29372.16,Mothers Day,78,58,Extras,73,60
+Monday,5/13/24,17161.91,NA,73,58,BBC,4,3
+Monday,5/13/24,17161.91,NA,73,58,WC,17,14
+Monday,5/13/24,17161.91,NA,73,58,MT,26,5
+Monday,5/13/24,17161.91,NA,73,58,ST,6,5
+Monday,5/13/24,17161.91,NA,73,58,FW/WT,7,7
+Monday,5/13/24,17161.91,NA,73,58,Lemon,2,2
+Monday,5/13/24,17161.91,NA,73,58,Extras,40,28
+Tuesday,5/14/24,16754.92,NA,73,57,BBC,3,2
+Tuesday,5/14/24,16754.92,NA,73,57,WC,18,13
+Tuesday,5/14/24,16754.92,NA,73,57,MT,21,6
+Tuesday,5/14/24,16754.92,NA,73,57,ST,5,4
+Tuesday,5/14/24,16754.92,NA,73,57,FW/WT,4,3
+Tuesday,5/14/24,16754.92,NA,73,57,Lemon,2,2
+Tuesday,5/14/24,16754.92,NA,73,57,Extras,37,33
+Wednesday,5/15/24,13340.99,NA,72,58,BBC,3,2
+Wednesday,5/15/24,13340.99,NA,72,58,WC,16,12
+Wednesday,5/15/24,13340.99,NA,72,58,MT,31,6
+Wednesday,5/15/24,13340.99,NA,72,58,ST,4,4
+Wednesday,5/15/24,13340.99,NA,72,58,FW/WT,5,4
+Wednesday,5/15/24,13340.99,NA,72,58,Lemon,2,2
+Wednesday,5/15/24,13340.99,NA,72,58,Extras,38,33
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,BBC,4,3
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,WC,16,12
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,MT,48,4
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,ST,6,4
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,FW/WT,5,4
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,Lemon,2,1
+Thursday,5/16/24,17054.55,Dentist Conv,70,57,Extras,40,30
+Friday,5/17/24,27739.53,NA,73,58,BBC,5,3
+Friday,5/17/24,27739.53,NA,73,58,WC,20,18
+Friday,5/17/24,27739.53,NA,73,58,MT,37,7
+Friday,5/17/24,27739.53,NA,73,58,ST,8,8
+Friday,5/17/24,27739.53,NA,73,58,FW/WT,4,4
+Friday,5/17/24,27739.53,NA,73,58,Lemon,2,1.5
+Friday,5/17/24,27739.53,NA,73,58,Extras,56,51
+Saturday,5/18/24,33151.77,NA,72,58,BBC,4,4
+Saturday,5/18/24,33151.77,NA,72,58,WC,30,29
+Saturday,5/18/24,33151.77,NA,72,58,MT,30,18
+Saturday,5/18/24,33151.77,NA,72,58,ST,12,12
+Saturday,5/18/24,33151.77,NA,72,58,FW/WT,10,6
+Saturday,5/18/24,33151.77,NA,72,58,Lemon,2,2
+Saturday,5/18/24,33151.77,NA,72,58,Extras,61,55
+Sunday,5/19/24,30258.44,NA,74,57,BBC,4,4
+Sunday,5/19/24,30258.44,NA,74,57,WC,29,26
+Sunday,5/19/24,30258.44,NA,74,57,MT,19,14
+Sunday,5/19/24,30258.44,NA,74,57,ST,16,7
+Sunday,5/19/24,30258.44,NA,74,57,FW/WT,8,8
+Sunday,5/19/24,30258.44,NA,74,57,Lemon,4,2
+Sunday,5/19/24,30258.44,NA,74,57,Extras,65,55
+Monday,5/20/24,16052.94,NA,71,56,BBC,4,17
+Monday,5/20/24,16052.94,NA,71,56,WC,19,5
+Monday,5/20/24,16052.94,NA,71,56,MT,21,6
+Monday,5/20/24,16052.94,NA,71,56,ST,9,3
+Monday,5/20/24,16052.94,NA,71,56,FW/WT,4,2
+Monday,5/20/24,16052.94,NA,71,56,Lemon,2,1.5
+Monday,5/20/24,16052.94,NA,71,56,Extras,33,25
+Tuesday,5/21/24,18185.33,NA,73,58,BBC,4,2
+Tuesday,5/21/24,18185.33,NA,73,58,WC,21,13
+Tuesday,5/21/24,18185.33,NA,73,58,MT,16,3
+Tuesday,5/21/24,18185.33,NA,73,58,ST,8,5
+Tuesday,5/21/24,18185.33,NA,73,58,FW/WT,5,4
+Tuesday,5/21/24,18185.33,NA,73,58,Lemon,2,1.5
+Tuesday,5/21/24,18185.33,NA,73,58,Extras,37,30
+Wednesday,5/22/24,24929.4,NA,73,56,BBC,4,4
+Wednesday,5/22/24,24929.4,NA,73,56,WC,18,15
+Wednesday,5/22/24,24929.4,NA,73,56,MT,32,8
+Wednesday,5/22/24,24929.4,NA,73,56,ST,7,7
+Wednesday,5/22/24,24929.4,NA,73,56,FW/WT,5,5
+Wednesday,5/22/24,24929.4,NA,73,56,Lemon,2,2
+Wednesday,5/22/24,24929.4,NA,73,56,Extras,39,38
+Thursday,5/23/24,24717.78,NA,71,57,BBC,4,3
+Thursday,5/23/24,24717.78,NA,71,57,WC,19,19
+Thursday,5/23/24,24717.78,NA,71,57,MT,45,11
+Thursday,5/23/24,24717.78,NA,71,57,ST,10,8
+Thursday,5/23/24,24717.78,NA,71,57,FW/WT,6,4
+Thursday,5/23/24,24717.78,NA,71,57,Lemon,2,1.5
+Thursday,5/23/24,24717.78,NA,71,57,Extras,44,38
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,BBC,5,3
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,WC,28,27
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,MT,34,10
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,ST,10,9
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,FW/WT,7,5
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,Lemon,2,2
+Friday,5/24/24,27991.58,Memorial Day Weekend,70,57,Extras,58,55
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,BBC,6,5
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,WC,34,29
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,MT,24,16
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,ST,13,10
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,FW/WT,10,8
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,Lemon,3,3
+Saturday,5/25/24,33073.56,Memorial Day Weekend,70,56,Extras,69,67
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,BBC,9,4
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,WC,33,30
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,MT,20,14
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,ST,16,6
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,FW/WT,14,13
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,Lemon,6,4
+Sunday,5/26/24,37424.96,Memorial Day Weekend,72,55,Extras,70,61
+Monday,5/27/24,35846.86,Memorial Day,75,55,BBC,5,4
+Monday,5/27/24,35846.86,Memorial Day,75,55,WC,35,28
+Monday,5/27/24,35846.86,Memorial Day,75,55,MT,20,12
+Monday,5/27/24,35846.86,Memorial Day,75,55,ST,10,9
+Monday,5/27/24,35846.86,Memorial Day,75,55,FW/WT,10,10
+Monday,5/27/24,35846.86,Memorial Day,75,55,Lemon,2,2
+Monday,5/27/24,35846.86,Memorial Day,75,55,Extras,71,62
+Tuesday,5/28/24,19380.49,NA,75,57,BBC,5,3
+Tuesday,5/28/24,19380.49,NA,75,57,WC,19,15
+Tuesday,5/28/24,19380.49,NA,75,57,MT,14,6
+Tuesday,5/28/24,19380.49,NA,75,57,ST,8,6
+Tuesday,5/28/24,19380.49,NA,75,57,FW/WT,6,4
+Tuesday,5/28/24,19380.49,NA,75,57,Lemon,2,2
+Tuesday,5/28/24,19380.49,NA,75,57,Extras,41,37
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,BBC,4,3.5
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,WC,20,18
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,MT,41,6
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,ST,8,7
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,FW/WT,5,4
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,Lemon,3,2
+Wednesday,5/29/24,21279.31,Trumpet Convn,75,57,Extras,45,36
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,BBC,5,4
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,WC,21,20
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,MT,54,11
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,ST,10,5.5
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,FW/WT,6,2
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,Lemon,2,1.5
+Thursday,5/30/24,23041.48,Trumpet Convn,79,58,Extras,46,40
+Friday,5/31/24,26477.06,NA,75,58,BBC,25,3
+Friday,5/31/24,26477.06,NA,75,58,WC,29,23
+Friday,5/31/24,26477.06,NA,75,58,MT,43,17
+Friday,5/31/24,26477.06,NA,75,58,ST,9,8.5
+Friday,5/31/24,26477.06,NA,75,58,FW/WT,8,6
+Friday,5/31/24,26477.06,NA,75,58,Lemon,2,1.5
+Friday,5/31/24,26477.06,NA,75,58,Extras,58,50
+Saturday,6/1/24,31923.62,NA,74,58,BBC,6,5
+Saturday,6/1/24,31923.62,NA,74,58,WC,34,29
+Saturday,6/1/24,31923.62,NA,74,58,MT,23,12
+Saturday,6/1/24,31923.62,NA,74,58,ST,13,12
+Saturday,6/1/24,31923.62,NA,74,58,FW/WT,10,8
+Saturday,6/1/24,31923.62,NA,74,58,Lemon,2,2
+Saturday,6/1/24,31923.62,NA,74,58,Extras,71,58
+Sunday,6/2/24,33369.4,NA,73,59,BBC,5,5
+Sunday,6/2/24,33369.4,NA,73,59,WC,30,30
+Sunday,6/2/24,33369.4,NA,73,59,MT,20,10
+Sunday,6/2/24,33369.4,NA,73,59,ST,17,11
+Sunday,6/2/24,33369.4,NA,73,59,FW/WT,10,5
+Sunday,6/2/24,33369.4,NA,73,59,Lemon,4,4
+Sunday,6/2/24,33369.4,NA,73,59,Extras,73,62
+Monday,6/3/24,18582.49,NA,76,58,BBC,4,3
+Monday,6/3/24,18582.49,NA,76,58,WC,20,16
+Monday,6/3/24,18582.49,NA,76,58,MT,25,6
+Monday,6/3/24,18582.49,NA,76,58,ST,9,5
+Monday,6/3/24,18582.49,NA,76,58,FW/WT,5,4
+Monday,6/3/24,18582.49,NA,76,58,Lemon,2,2
+Monday,6/3/24,18582.49,NA,76,58,Extras,44,28
+Tuesday,6/4/24,24796.72,NA,78,60,BBC,3,3
+Tuesday,6/4/24,24796.72,NA,78,60,WC,20,20
+Tuesday,6/4/24,24796.72,NA,78,60,MT,19,11
+Tuesday,6/4/24,24796.72,NA,78,60,ST,8,8
+Tuesday,6/4/24,24796.72,NA,78,60,FW/WT,6,6
+Tuesday,6/4/24,24796.72,NA,78,60,Lemon,2,1
+Tuesday,6/4/24,24796.72,NA,78,60,Extras,43,38
+Wednesday,6/5/24,24098.86,NA,79,61,BBC,6,3
+Wednesday,6/5/24,24098.86,NA,79,61,WC,20,14
+Wednesday,6/5/24,24098.86,NA,79,61,MT,28,12
+Wednesday,6/5/24,24098.86,NA,79,61,ST,9,9
+Wednesday,6/5/24,24098.86,NA,79,61,FW/WT,4,4
+Wednesday,6/5/24,24098.86,NA,79,61,Lemon,2,1.5
+Wednesday,6/5/24,24098.86,NA,79,61,Extras,44,38
+Thursday,6/6/24,26265.82,NA,77,62,BBC,5,4
+Thursday,6/6/24,26265.82,NA,77,62,WC,26,23
+Thursday,6/6/24,26265.82,NA,77,62,MT,39,11
+Thursday,6/6/24,26265.82,NA,77,62,ST,12,8
+Thursday,6/6/24,26265.82,NA,77,62,FW/WT,6,5
+Thursday,6/6/24,26265.82,NA,77,62,Lemon,2,1.5
+Thursday,6/6/24,26265.82,NA,77,62,Extras,52,50
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,BBC,6,5
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,WC,30,21
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,MT,28,10
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,ST,13,8
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,FW/WT,8,6
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,Lemon,2,2
+Friday,6/7/24,29226.9,Gymnastic Conv,76,61,Extras,69,63
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,BBC,5,4
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,WC,37,28
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,MT,22,13
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,ST,13,11
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,FW/WT,10,8.5
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,Lemon,2,2
+Saturday,6/8/24,31407.9,Gymnastic Conv,76,61,Extras,68,60
+Sunday,6/9/24,33363.76,Gymnastic Conv,75,61,BBC,4,3
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,WC,33,25
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,MT,21,11
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,ST,14,8
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,FW/WT,10,7
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,Lemon,4,4
+Sunday,6/9/24,29362.94,Gymnastic Conv,75,61,Extras,71,61
+Monday,6/10/24,21778.22,NA,76,61,BBC,4,4
+Monday,6/10/24,21778.22,NA,76,61,WC,23,19
+Monday,6/10/24,21778.22,NA,76,61,MT,29,11
+Monday,6/10/24,21778.22,NA,76,61,ST,13,8
+Monday,6/10/24,21778.22,NA,76,61,FW/WT,7,6
+Monday,6/10/24,21778.22,NA,76,61,Lemon,2,1.5
+Monday,6/10/24,21778.22,NA,76,61,Extras,50,42
+Tuesday,6/11/24,21531.03,NA,77,60,BBC,6,3
+Tuesday,6/11/24,21531.03,NA,77,60,WC,24,19
+Tuesday,6/11/24,21531.03,NA,77,60,MT,18,5
+Tuesday,6/11/24,21531.03,NA,77,60,ST,8,5
+Tuesday,6/11/24,21531.03,NA,77,60,FW/WT,5,4
+Tuesday,6/11/24,21531.03,NA,77,60,Lemon,2,1.5
+Tuesday,6/11/24,21531.03,NA,77,60,Extras,51,41
+Wednesday,6/12/24,25481.28,NA,78,61,BBC,5,4
+Wednesday,6/12/24,25481.28,NA,78,61,WC,25,22
+Wednesday,6/12/24,25481.28,NA,78,61,MT,37,12
+Wednesday,6/12/24,25481.28,NA,78,61,ST,7,55
+Wednesday,6/12/24,25481.28,NA,78,61,FW/WT,6,5
+Wednesday,6/12/24,25481.28,NA,78,61,Lemon,2,1.5
+Wednesday,6/12/24,25481.28,NA,78,61,Extras,54,46
+Thursday,6/13/24,26111.71,NA,79,59,BBC,5,4
+Thursday,6/13/24,26111.71,NA,79,59,WC,27,26
+Thursday,6/13/24,26111.71,NA,79,59,MT,45,11
+Thursday,6/13/24,26111.71,NA,79,59,ST,9,8
+Thursday,6/13/24,26111.71,NA,79,59,FW/WT,7,5
+Thursday,6/13/24,26111.71,NA,79,59,Lemon,2,1.5
+Thursday,6/13/24,26111.71,NA,79,59,Extras,58,53
+Friday,6/14/24,32259.99,NA,80,60,BBC,5,4
+Friday,6/14/24,32259.99,NA,80,60,WC,29,25
+Friday,6/14/24,32259.99,NA,80,60,MT,34,13
+Friday,6/14/24,32259.99,NA,80,60,ST,12,8
+Friday,6/14/24,32259.99,NA,80,60,FW/WT,8,5
+Friday,6/14/24,32259.99,NA,80,60,Lemon,2,2
+Friday,6/14/24,32259.99,NA,80,60,Extras,67,58
+Saturday,6/15/24,28936.46,NA,85,60,BBC,4.5,4
+Saturday,6/15/24,28936.46,NA,85,60,WC,36,30
+Saturday,6/15/24,28936.46,NA,85,60,MT,21,14
+Saturday,6/15/24,28936.46,NA,85,60,ST,16,11
+Saturday,6/15/24,28936.46,NA,85,60,FW/WT,10,19
+Saturday,6/15/24,28936.46,NA,85,60,Lemon,2,2
+Saturday,6/15/24,28936.46,NA,85,60,Extras,72,69
+Sunday,6/16/24,37182.82,NA,80,61,BBC,6,5
+Sunday,6/16/24,37182.82,NA,80,61,WC,34,34
+Sunday,6/16/24,37182.82,NA,80,61,MT,15,15
+Sunday,6/16/24,37182.82,NA,80,61,ST,17,17
+Sunday,6/16/24,37182.82,NA,80,61,FW/WT,12,12
+Sunday,6/16/24,37182.82,NA,80,61,Lemon,3,3
+Sunday,6/16/24,37182.82,NA,80,61,Extras,75,70
+Monday,6/17/24,26222.95,NA,76,61,BBC,4,3
+Monday,6/17/24,26222.95,NA,76,61,WC,28,23
+Monday,6/17/24,26222.95,NA,76,61,MT,16,10
+Monday,6/17/24,26222.95,NA,76,61,ST,16,6
+Monday,6/17/24,26222.95,NA,76,61,FW/WT,8,5
+Monday,6/17/24,26222.95,NA,76,61,Lemon,2,1.5
+Monday,6/17/24,26222.95,NA,76,61,Extras,62,51
+Tuesday,6/18/24,22863.55,NA,79,60,BBC,5,3
+Tuesday,6/18/24,22863.55,NA,79,60,WC,25,19
+Tuesday,6/18/24,22863.55,NA,79,60,MT,18,5
+Tuesday,6/18/24,22863.55,NA,79,60,ST,10,9
+Tuesday,6/18/24,22863.55,NA,79,60,FW/WT,7,5
+Tuesday,6/18/24,22863.55,NA,79,60,Lemon,2,1.5
+Tuesday,6/18/24,22863.55,NA,79,60,Extras,58,45
+Wednesday,6/19/24,28731.29,NA,79,60,BBC,5,3
+Wednesday,6/19/24,28731.29,NA,79,60,WC,26,20
+Wednesday,6/19/24,28731.29,NA,79,60,MT,47,24
+Wednesday,6/19/24,28731.29,NA,79,60,ST,9,8
+Wednesday,6/19/24,28731.29,NA,79,60,FW/WT,8,6
+Wednesday,6/19/24,28731.29,NA,79,60,Lemon,2,1.5
+Wednesday,6/19/24,28731.29,NA,79,60,Extras,57,53
+Thursday,6/20/24,27591.71,NA,81,61,BBC,6,5
+Thursday,6/20/24,27591.71,NA,81,61,WC,30,28
+Thursday,6/20/24,27591.71,NA,81,61,MT,43,14
+Thursday,6/20/24,27591.71,NA,81,61,ST,10,7
+Thursday,6/20/24,27591.71,NA,81,61,FW/WT,8,6.5
+Thursday,6/20/24,27591.71,NA,81,61,Lemon,2,1.5
+Thursday,6/20/24,27591.71,NA,81,61,Extras,64,56
+Friday,6/21/24,30277.95,NA,85,60,BBC,6,5
+Friday,6/21/24,30277.95,NA,85,60,WC,30,21
+Friday,6/21/24,30277.95,NA,85,60,MT,30,16
+Friday,6/21/24,30277.95,NA,85,60,ST,9,7
+Friday,6/21/24,30277.95,NA,85,60,FW/WT,9,5
+Friday,6/21/24,30277.95,NA,85,60,Lemon,2,1.5
+Friday,6/21/24,30277.95,NA,85,60,Extras,68,51
+Saturday,6/22/24,37849.56,NA,88,66,BBC,7,6
+Saturday,6/22/24,37849.56,NA,88,66,WC,37,35
+Saturday,6/22/24,37849.56,NA,88,66,MT,21,13
+Saturday,6/22/24,37849.56,NA,88,66,ST,18,13
+Saturday,6/22/24,37849.56,NA,88,66,FW/WT,12,12
+Saturday,6/22/24,37849.56,NA,88,66,Lemon,3,3
+Saturday,6/22/24,37849.56,NA,88,66,Extras,75,65
+Sunday,6/23/24,42551.69,NA,87,67,BBC,9,8
+Sunday,6/23/24,42551.69,NA,87,67,WC,38,37
+Sunday,6/23/24,42551.69,NA,87,67,MT,16,15
+Sunday,6/23/24,42551.69,NA,87,67,ST,17,16
+Sunday,6/23/24,42551.69,NA,87,67,FW/WT,12,10
+Sunday,6/23/24,42551.69,NA,87,67,Lemon,4,3
+Sunday,6/23/24,42551.69,NA,87,67,Extras,83,75
+Monday,6/24/24,29976.4,NA,84,66,BBC,5,2
+Monday,6/24/24,29976.4,NA,84,66,WC,29,26
+Monday,6/24/24,29976.4,NA,84,66,MT,29,15
+Monday,6/24/24,29976.4,NA,84,66,ST,10,6
+Monday,6/24/24,29976.4,NA,84,66,FW/WT,8,8
+Monday,6/24/24,29976.4,NA,84,66,Lemon,2,1.5
+Monday,6/24/24,29976.4,NA,84,66,Extras,66,62
+Tuesday,6/25/24,27243.23,NA,84,66,BBC,5,4
+Tuesday,6/25/24,27243.23,NA,84,66,WC,26,25
+Tuesday,6/25/24,27243.23,NA,84,66,MT,13,9
+Tuesday,6/25/24,27243.23,NA,84,66,ST,12,11
+Tuesday,6/25/24,27243.23,NA,84,66,FW/WT,8,7
+Tuesday,6/25/24,27243.23,NA,84,66,Lemon,2,1.5
+Tuesday,6/25/24,27243.23,NA,84,66,Extras,55,50
+Wednesday,6/26/24,27836.29,NA,81,64,BBC,5,4
+Wednesday,6/26/24,27836.29,NA,81,64,WC,33,25
+Wednesday,6/26/24,27836.29,NA,81,64,MT,37,17
+Wednesday,6/26/24,27836.29,NA,81,64,ST,13,11
+Wednesday,6/26/24,27836.29,NA,81,64,FW/WT,9,6
+Wednesday,6/26/24,27836.29,NA,81,64,Lemon,4,2
+Wednesday,6/26/24,27836.29,NA,81,64,Extras,60,53
+Thursday,6/27/24,28129.15,Vidcon,81,64,BBC,5,3
+Thursday,6/27/24,28129.15,Vidcon,81,64,WC,32,23
+Thursday,6/27/24,28129.15,Vidcon,81,64,MT,40,15
+Thursday,6/27/24,28129.15,Vidcon,81,64,ST,14,7
+Thursday,6/27/24,28129.15,Vidcon,81,64,FW/WT,7,7
+Thursday,6/27/24,28129.15,Vidcon,81,64,Lemon,2,1.5
+Thursday,6/27/24,28129.15,Vidcon,81,64,Extras,65,50
+Friday,6/28/24,30267.62,Vidcon,80,63,BBC,6,5
+Friday,6/28/24,30267.62,Vidcon,80,63,WC,30,27
+Friday,6/28/24,30267.62,Vidcon,80,63,MT,25,17.5
+Friday,6/28/24,30267.62,Vidcon,80,63,ST,11,11
+Friday,6/28/24,30267.62,Vidcon,80,63,FW/WT,8,7
+Friday,6/28/24,30267.62,Vidcon,80,63,Lemon,2,1.5
+Friday,6/28/24,30267.62,Vidcon,80,63,Extras,60,54
+Saturday,6/29/24,38942.13,Vidcon,85,62,BBC,9,4
+Saturday,6/29/24,38942.13,Vidcon,85,62,WC,43,33
+Saturday,6/29/24,38942.13,Vidcon,85,62,MT,19,14
+Saturday,6/29/24,38942.13,Vidcon,85,62,ST,20,10
+Saturday,6/29/24,38942.13,Vidcon,85,62,FW/WT,8,7
+Saturday,6/29/24,38942.13,Vidcon,85,62,Lemon,4,3
+Saturday,6/29/24,38942.13,Vidcon,85,62,Extras,87,75
+Sunday,6/30/24,44965.11,NA,90,61,BBC,9,8
+Sunday,6/30/24,44965.11,NA,90,61,WC,45,44
+Sunday,6/30/24,44965.11,NA,90,61,MT,21,16
+Sunday,6/30/24,44965.11,NA,90,61,ST,21,16
+Sunday,6/30/24,44965.11,NA,90,61,FW/WT,12,7
+Sunday,6/30/24,44965.11,NA,90,61,Lemon,5,3
+Sunday,6/30/24,44965.11,NA,90,61,Extras,91,77
+Monday,7/1/24,35579.52,NA,84,63,BBC,5,5
+Monday,7/1/24,35579.52,NA,84,63,WC,33,21
+Monday,7/1/24,35579.52,NA,84,63,MT,21,12
+Monday,7/1/24,35579.52,NA,84,63,ST,17,11
+Monday,7/1/24,35579.52,NA,84,63,FW/WT,13,9
+Monday,7/1/24,35579.52,NA,84,63,Lemon,11,4
+Monday,7/1/24,35579.52,NA,84,63,Extras,72,63
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,BBC,4,3.5
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,WC,26,23
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,MT,21,8
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,ST,14,8
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,FW/WT,12,9
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,Lemon,2,1.5
+Tuesday,7/2/24,25815.21,Dance Comp,86,62,Extras,56,46
+Wednesday,7/3/24,30160.29,NA,84,64,BBC,4.5,4.5
+Wednesday,7/3/24,30160.29,NA,84,64,WC,29,28
+Wednesday,7/3/24,30160.29,NA,84,64,MT,40,19
+Wednesday,7/3/24,30160.29,NA,84,64,ST,11,9
+Wednesday,7/3/24,30160.29,NA,84,64,FW/WT,12,11
+Wednesday,7/3/24,30160.29,NA,84,64,Lemon,2,1.5
+Wednesday,7/3/24,30160.29,NA,84,64,Extras,57,56
+Thursday,7/4/24,38699.97,4th of July,86,64,BBC,8,6
+Thursday,7/4/24,38699.97,4th of July,86,64,WC,32,30
+Thursday,7/4/24,38699.97,4th of July,86,64,MT,37,15
+Thursday,7/4/24,38699.97,4th of July,86,64,ST,12,12
+Thursday,7/4/24,38699.97,4th of July,86,64,FW/WT,8,6
+Thursday,7/4/24,38699.97,4th of July,86,64,Lemon,3,2
+Thursday,7/4/24,38699.97,4th of July,86,64,Extras,76,66
+Friday,7/5/24,37038.11,NA,87,63,BBC,8,7
+Friday,7/5/24,37038.11,NA,87,63,WC,34,34
+Friday,7/5/24,37038.11,NA,87,63,MT,34,6
+Friday,7/5/24,37038.11,NA,87,63,ST,12,12
+Friday,7/5/24,37038.11,NA,87,63,FW/WT,8,8
+Friday,7/5/24,37038.11,NA,87,63,Lemon,2,1.5
+Friday,7/5/24,37038.11,NA,87,63,Extras,77,73
+Saturday,7/6/24,40090.85,NA,86,67,BBC,8,6
+Saturday,7/6/24,40090.85,NA,86,67,WC,40,33
+Saturday,7/6/24,40090.85,NA,86,67,MT,26,11
+Saturday,7/6/24,40090.85,NA,86,67,ST,16,14
+Saturday,7/6/24,40090.85,NA,86,67,FW/WT,12,10
+Saturday,7/6/24,40090.85,NA,86,67,Lemon,4,3
+Saturday,7/6/24,40090.85,NA,86,67,Extras,86,77
+Sunday,7/7/24,44501.19,Dance Comp,84,66,BBC,8,7
+Sunday,7/7/24,44501.19,Dance Comp,84,66,WC,35,35
+Sunday,7/7/24,44501.19,Dance Comp,84,66,MT,23,11
+Sunday,7/7/24,44501.19,Dance Comp,84,66,ST,16,14
+Sunday,7/7/24,44501.19,Dance Comp,84,66,FW/WT,14,8
+Sunday,7/7/24,44501.19,Dance Comp,84,66,Lemon,4,3
+Sunday,7/7/24,44501.19,Dance Comp,84,66,Extras,88,82
+Monday,7/8/24,30644.44,NA,84,65,BBC,5,4
+Monday,7/8/24,30644.44,NA,84,65,WC,36,20
+Monday,7/8/24,30644.44,NA,84,65,MT,20,12
+Monday,7/8/24,30644.44,NA,84,65,ST,14,9
+Monday,7/8/24,30644.44,NA,84,65,FW/WT,10,8
+Monday,7/8/24,30644.44,NA,84,65,Lemon,2,1.5
+Monday,7/8/24,30644.44,NA,84,65,Extras,72,58
+Tuesday,7/9/24,27428.72,NA,87,65,BBC,5,4
+Tuesday,7/9/24,27428.72,NA,87,65,WC,24,19
+Tuesday,7/9/24,27428.72,NA,87,65,MT,20,10
+Tuesday,7/9/24,27428.72,NA,87,65,ST,11,6
+Tuesday,7/9/24,27428.72,NA,87,65,FW/WT,8,5
+Tuesday,7/9/24,27428.72,NA,87,65,Lemon,2,1.5
+Tuesday,7/9/24,27428.72,NA,87,65,Extras,64,51
+Wednesday,7/10/24,31532.77,NA,89,66,BBC,5,4
+Wednesday,7/10/24,31532.77,NA,89,66,WC,29,27
+Wednesday,7/10/24,31532.77,NA,89,66,MT,33,12
+Wednesday,7/10/24,31532.77,NA,89,66,ST,10,8
+Wednesday,7/10/24,31532.77,NA,89,66,FW/WT,9,5
+Wednesday,7/10/24,31532.77,NA,89,66,Lemon,2,1
+Wednesday,7/10/24,31532.77,NA,89,66,Extras,63,54
+Thursday,7/11/24,28922.32,NA,85,66,BBC,5,4
+Thursday,7/11/24,28922.32,NA,85,66,WC,30,23
+Thursday,7/11/24,28922.32,NA,85,66,MT,33,11
+Thursday,7/11/24,28922.32,NA,85,66,ST,10,9
+Thursday,7/11/24,28922.32,NA,85,66,FW/WT,8,8
+Thursday,7/11/24,28922.32,NA,85,66,Lemon,2,2
+Thursday,7/11/24,28922.32,NA,85,66,Extras,60,57
+Friday,7/12/24,29242.75,NA,84,64,BBC,6,4
+Friday,7/12/24,29242.75,NA,84,64,WC,43,22
+Friday,7/12/24,29242.75,NA,84,64,MT,38,14
+Friday,7/12/24,29242.75,NA,84,64,ST,17,10
+Friday,7/12/24,29242.75,NA,84,64,FW/WT,8,4
+Friday,7/12/24,29242.75,NA,84,64,Lemon,4,2
+Friday,7/12/24,29242.75,NA,84,64,Extras,85,63
+Saturday,7/13/24,38801.84,NA,83,65,BBC,9,7
+Saturday,7/13/24,38801.84,NA,83,65,WC,33,29
+Saturday,7/13/24,38801.84,NA,83,65,MT,32,12
+Saturday,7/13/24,38801.84,NA,83,65,ST,15,6
+Saturday,7/13/24,38801.84,NA,83,65,FW/WT,12,10
+Saturday,7/13/24,38801.84,NA,83,65,Lemon,4,3
+Saturday,7/13/24,38801.84,NA,83,65,Extras,87,72
+Sunday,7/14/24,43035.34,NA,83,65,BBC,8,7
+Sunday,7/14/24,43035.34,NA,83,65,WC,38,29
+Sunday,7/14/24,43035.34,NA,83,65,MT,39,17
+Sunday,7/14/24,43035.34,NA,83,65,ST,15,13
+Sunday,7/14/24,43035.34,NA,83,65,FW/WT,12,9
+Sunday,7/14/24,43035.34,NA,83,65,Lemon,4,3
+Sunday,7/14/24,43035.34,NA,83,65,Extras,89,77
+Monday,7/15/24,27627.92,NA,85,65,BBC,5,3
+Monday,7/15/24,27627.92,NA,85,65,WC,25,23
+Monday,7/15/24,27627.92,NA,85,65,MT,34,11
+Monday,7/15/24,27627.92,NA,85,65,ST,10,8.5
+Monday,7/15/24,27627.92,NA,85,65,FW/WT,7,5.5
+Monday,7/15/24,27627.92,NA,85,65,Lemon,2,2
+Monday,7/15/24,27627.92,NA,85,65,Extras,66,50
+Tuesday,7/16/24,27997.34,NA,81,65,BBC,5.5,3
+Tuesday,7/16/24,27997.34,NA,81,65,WC,25,21
+Tuesday,7/16/24,27997.34,NA,81,65,MT,23,11
+Tuesday,7/16/24,27997.34,NA,81,65,ST,11,7
+Tuesday,7/16/24,27997.34,NA,81,65,FW/WT,5.5,5.5
+Tuesday,7/16/24,27997.34,NA,81,65,Lemon,2,1.5
+Tuesday,7/16/24,27997.34,NA,81,65,Extras,58,53
+Wednesday,7/17/24,27200.59,NA,81,64,BBC,5,4
+Wednesday,7/17/24,27200.59,NA,81,64,WC,27,20
+Wednesday,7/17/24,27200.59,NA,81,64,MT,32,15
+Wednesday,7/17/24,27200.59,NA,81,64,ST,9,6
+Wednesday,7/17/24,27200.59,NA,81,64,FW/WT,6,3
+Wednesday,7/17/24,27200.59,NA,81,64,Lemon,2,1.5
+Wednesday,7/17/24,27200.59,NA,81,64,Extras,62,54
+Thursday,7/18/24,30259.2,NA,86,67,BBC,5,3
+Thursday,7/18/24,30259.2,NA,86,67,WC,29,22
+Thursday,7/18/24,30259.2,NA,86,67,MT,25,9
+Thursday,7/18/24,30259.2,NA,86,67,ST,11,9
+Thursday,7/18/24,30259.2,NA,86,67,FW/WT,11,9
+Thursday,7/18/24,30259.2,NA,86,67,Lemon,2,2
+Thursday,7/18/24,30259.2,NA,86,67,Extras,64,48
+Friday,7/19/24,35402.56,NA,89,66,BBC,6,4
+Friday,7/19/24,35402.56,NA,89,66,WC,39,25
+Friday,7/19/24,35402.56,NA,89,66,MT,28,14
+Friday,7/19/24,35402.56,NA,89,66,ST,14,10
+Friday,7/19/24,35402.56,NA,89,66,FW/WT,10,6
+Friday,7/19/24,35402.56,NA,89,66,Lemon,4,3
+Friday,7/19/24,35402.56,NA,89,66,Extras,84,68
+Saturday,7/20/24,42266.96,NA,88,64,BBC,10,7
+Saturday,7/20/24,42266.96,NA,88,64,WC,34,28
+Saturday,7/20/24,42266.96,NA,88,64,MT,26,11
+Saturday,7/20/24,42266.96,NA,88,64,ST,12,11
+Saturday,7/20/24,42266.96,NA,88,64,FW/WT,12,11
+Saturday,7/20/24,42266.96,NA,88,64,Lemon,4,3
+Saturday,7/20/24,42266.96,NA,88,64,Extras,82,62
+Sunday,7/21/24,45011.77,NA,86,66,BBC,8,7
+Sunday,7/21/24,45011.77,NA,86,66,WC,34,34
+Sunday,7/21/24,45011.77,NA,86,66,MT,25,18
+Sunday,7/21/24,45011.77,NA,86,66,ST,13,13
+Sunday,7/21/24,45011.77,NA,86,66,FW/WT,8,7
+Sunday,7/21/24,45011.77,NA,86,66,Lemon,4,3
+Sunday,7/21/24,45011.77,NA,86,66,Extras,81,71
+Monday,7/22/24,30278.26,NA,86,66,BBC,5,4
+Monday,7/22/24,30278.26,NA,86,66,WC,24,23.5
+Monday,7/22/24,30278.26,NA,86,66,MT,27,14
+Monday,7/22/24,30278.26,NA,86,66,ST,10,10
+Monday,7/22/24,30278.26,NA,86,66,FW/WT,8,7.5
+Monday,7/22/24,30278.26,NA,86,66,Lemon,2,1.5
+Monday,7/22/24,30278.26,NA,86,66,Extras,67,59
+Tuesday,7/23/24,30175.44,NA,86,66,BBC,5,4.5
+Tuesday,7/23/24,30175.44,NA,86,66,WC,28,23
+Tuesday,7/23/24,30175.44,NA,86,66,MT,25,11
+Tuesday,7/23/24,30175.44,NA,86,66,ST,12,10
+Tuesday,7/23/24,30175.44,NA,86,66,FW/WT,4,4
+Tuesday,7/23/24,30175.44,NA,86,66,Lemon,3,2.5
+Tuesday,7/23/24,30175.44,NA,86,66,Extras,64,49.5
+Wednesday,7/24/24,30727.65,NA,88,67,BBC,4.5,4
+Wednesday,7/24/24,30727.65,NA,88,67,WC,29,27
+Wednesday,7/24/24,30727.65,NA,88,67,MT,26,13
+Wednesday,7/24/24,30727.65,NA,88,67,ST,14,10
+Wednesday,7/24/24,30727.65,NA,88,67,FW/WT,8,6.5
+Wednesday,7/24/24,30727.65,NA,88,67,Lemon,4,3
+Wednesday,7/24/24,30727.65,NA,88,67,Extras,66,60
+Thursday,7/25/24,31449.32,NA,94,67,BBC,4,3.5
+Thursday,7/25/24,31449.32,NA,94,67,WC,30,23
+Thursday,7/25/24,31449.32,NA,94,67,MT,20,14
+Thursday,7/25/24,31449.32,NA,94,67,ST,15,11
+Thursday,7/25/24,31449.32,NA,94,67,FW/WT,7.5,7
+Thursday,7/25/24,31449.32,NA,94,67,Lemon,4,2.5
+Thursday,7/25/24,31449.32,NA,94,67,Extras,68,60
+Friday,7/26/24,34246.07,NA,94,66,BBC,6.5,4
+Friday,7/26/24,34246.07,NA,94,66,WC,32,26
+Friday,7/26/24,34246.07,NA,94,66,MT,30,18.5
+Friday,7/26/24,34246.07,NA,94,66,ST,16,14
+Friday,7/26/24,34246.07,NA,94,66,FW/WT,10,9
+Friday,7/26/24,34246.07,NA,94,66,Lemon,2,2
+Friday,7/26/24,34246.07,NA,94,66,Extras,70,62
+Saturday,7/27/24,37992.32,NA,82,63,BBC,7,6
+Saturday,7/27/24,37992.32,NA,82,63,WC,33,32
+Saturday,7/27/24,37992.32,NA,82,63,MT,23,18
+Saturday,7/27/24,37992.32,NA,82,63,ST,14,12
+Saturday,7/27/24,37992.32,NA,82,63,FW/WT,12,6
+Saturday,7/27/24,37992.32,NA,82,63,Lemon,4,2.5
+Saturday,7/27/24,37992.32,NA,82,63,Extras,72,63
+Sunday,7/28/24,45350.86,NA,81,62,BBC,9,8
+Sunday,7/28/24,45350.86,NA,81,62,WC,32,32
+Sunday,7/28/24,45350.86,NA,81,62,MT,24,16
+Sunday,7/28/24,45350.86,NA,81,62,ST,14,14
+Sunday,7/28/24,45350.86,NA,81,62,FW/WT,12,12
+Sunday,7/28/24,45350.86,NA,81,62,Lemon,2,2
+Sunday,7/28/24,45350.86,NA,81,62,Extras,77,66
+Monday,7/29/24,39774.07,NA,78,61,BBC,7,4
+Monday,7/29/24,39774.07,NA,78,61,WC,28,25
+Monday,7/29/24,39774.07,NA,78,61,MT,20,15
+Monday,7/29/24,39774.07,NA,78,61,ST,12,11
+Monday,7/29/24,39774.07,NA,78,61,FW/WT,8,6.5
+Monday,7/29/24,39774.07,NA,78,61,Lemon,2,2
+Monday,7/29/24,39774.07,NA,78,61,Extras,66,55
+Tuesday,7/30/24,42833.83,NA,82,59,BBC,7,3
+Tuesday,7/30/24,42833.83,NA,82,59,WC,31,25
+Tuesday,7/30/24,42833.83,NA,82,59,MT,25,9
+Tuesday,7/30/24,42833.83,NA,82,59,ST,13,9
+Tuesday,7/30/24,42833.83,NA,82,59,FW/WT,11,9
+Tuesday,7/30/24,42833.83,NA,82,59,Lemon,2,1.5
+Tuesday,7/30/24,42833.83,NA,82,59,Extras,63,52
+Wednesday,7/31/24,27605.2,NA,84,59,BBC,4,4
+Wednesday,7/31/24,27605.2,NA,84,59,WC,29,18
+Wednesday,7/31/24,27605.2,NA,84,59,MT,24,9
+Wednesday,7/31/24,27605.2,NA,84,59,ST,12,8
+Wednesday,7/31/24,27605.2,NA,84,59,FW/WT,10,7
+Wednesday,7/31/24,27605.2,NA,84,59,Lemon,2,2
+Wednesday,7/31/24,27605.2,NA,84,59,Extras,54,50
+Thursday,8/1/24,28953.88,NA,83,62,BBC,4,3.5
+Thursday,8/1/24,28953.88,NA,83,62,WC,26,22
+Thursday,8/1/24,28953.88,NA,83,62,MT,27,15
+Thursday,8/1/24,28953.88,NA,83,62,ST,12,11
+Thursday,8/1/24,28953.88,NA,83,62,FW/WT,8,5
+Thursday,8/1/24,28953.88,NA,83,62,Lemon,2,2
+Thursday,8/1/24,28953.88,NA,83,62,Extras,62,49
+Friday,8/2/24,36100.03,NA,92,65,BBC,6,5
+Friday,8/2/24,36100.03,NA,92,65,WC,36,32
+Friday,8/2/24,36100.03,NA,92,65,MT,24,13
+Friday,8/2/24,36100.03,NA,92,65,ST,17,13
+Friday,8/2/24,36100.03,NA,92,65,FW/WT,12,10
+Friday,8/2/24,36100.03,NA,92,65,Lemon,4,3
+Friday,8/2/24,36100.03,NA,92,65,Extras,72,63
+Saturday,8/3/24,39131.34,NA,93,66,BBC,8,7
+Saturday,8/3/24,39131.34,NA,93,66,WC,40,38
+Saturday,8/3/24,39131.34,NA,93,66,MT,26,16
+Saturday,8/3/24,39131.34,NA,93,66,ST,15,13
+Saturday,8/3/24,39131.34,NA,93,66,FW/WT,12,9
+Saturday,8/3/24,39131.34,NA,93,66,Lemon,4,3
+Saturday,8/3/24,39131.34,NA,93,66,Extras,76,65
+Sunday,8/4/24,43405.43,NA,91,66,BBC,9,8
+Sunday,8/4/24,43405.43,NA,91,66,WC,38,36
+Sunday,8/4/24,43405.43,NA,91,66,MT,18,16
+Sunday,8/4/24,43405.43,NA,91,66,ST,15,12
+Sunday,8/4/24,43405.43,NA,91,66,FW/WT,11,10
+Sunday,8/4/24,43405.43,NA,91,66,Lemon,4,4
+Sunday,8/4/24,43405.43,NA,91,66,Extras,95,87
+Monday,8/5/24,27176.27,NA,92,66,BBC,7,4
+Monday,8/5/24,27176.27,NA,92,66,WC,34,25
+Monday,8/5/24,27176.27,NA,92,66,MT,21,13
+Monday,8/5/24,27176.27,NA,92,66,ST,14,8
+Monday,8/5/24,27176.27,NA,92,66,FW/WT,12,8
+Monday,8/5/24,27176.27,NA,92,66,Lemon,2,2
+Monday,8/5/24,27176.27,NA,92,66,Extras,82,57
+Tuesday,8/6/24,28319.57,NA,88,66,BBC,5,3
+Tuesday,8/6/24,28319.57,NA,88,66,WC,33,27
+Tuesday,8/6/24,28319.57,NA,88,66,MT,28,7
+Tuesday,8/6/24,28319.57,NA,88,66,ST,10,6
+Tuesday,8/6/24,28319.57,NA,88,66,FW/WT,7,4
+Tuesday,8/6/24,28319.57,NA,88,66,Lemon,2,2
+Tuesday,8/6/24,28319.57,NA,88,66,Extras,66,56
+Wednesday,8/7/24,27135.34,NA,82,67,BBC,5,4
+Wednesday,8/7/24,27135.34,NA,82,67,WC,29,23
+Wednesday,8/7/24,27135.34,NA,82,67,MT,21,13
+Wednesday,8/7/24,27135.34,NA,82,67,ST,10,8
+Wednesday,8/7/24,27135.34,NA,82,67,FW/WT,11,8
+Wednesday,8/7/24,27135.34,NA,82,67,Lemon,2,1.5
+Wednesday,8/7/24,27135.34,NA,82,67,Extras,62,51
+Thursday,8/8/24,30415.02,NA,81,66,BBC,6,5
+Thursday,8/8/24,30415.02,NA,81,66,WC,35,26
+Thursday,8/8/24,30415.02,NA,81,66,MT,24,13
+Thursday,8/8/24,30415.02,NA,81,66,ST,10,10
+Thursday,8/8/24,30415.02,NA,81,66,FW/WT,4,4
+Thursday,8/8/24,30415.02,NA,81,66,Lemon,2,1.5
+Thursday,8/8/24,30415.02,NA,81,66,Extras,65,55
+Friday,8/9/24,29362.94,Dogust k9th,85,65,BBC,8,4
+Friday,8/9/24,29362.94,Dogust k9th,85,65,WC,41,37
+Friday,8/9/24,29362.94,Dogust k9th,85,65,MT,23,19
+Friday,8/9/24,29362.94,Dogust k9th,85,65,ST,14,12
+Friday,8/9/24,29362.94,Dogust k9th,85,65,FW/WT,10,8
+Friday,8/9/24,29362.94,Dogust k9th,85,65,Lemon,4,4
+Friday,8/9/24,29362.94,Dogust k9th,85,65,Extras,86,72
+Saturday,8/10/24,40438.39,NA,87,64,BBC,9,7
+Saturday,8/10/24,40438.39,NA,87,64,WC,32,36
+Saturday,8/10/24,40438.39,NA,87,64,MT,17,16
+Saturday,8/10/24,40438.39,NA,87,64,ST,15,14
+Saturday,8/10/24,40438.39,NA,87,64,FW/WT,11,9
+Saturday,8/10/24,40438.39,NA,87,64,Lemon,4,4
+Saturday,8/10/24,40438.39,NA,87,64,Extras,86,70
+Sunday,8/11/24,38910.66,NA,88,66,BBC,8,5
+Sunday,8/11/24,38910.66,NA,88,66,WC,40,36
+Sunday,8/11/24,38910.66,NA,88,66,MT,21,11
+Sunday,8/11/24,38910.66,NA,88,66,ST,16,10
+Sunday,8/11/24,38910.66,NA,88,66,FW/WT,10,10
+Sunday,8/11/24,38910.66,NA,88,66,Lemon,4,3
+Sunday,8/11/24,38910.66,NA,88,66,Extras,89,76
+Monday,8/12/24,26551.17,NA,87,67,BBC,5,5
+Monday,8/12/24,26551.17,NA,87,67,WC,24,19
+Monday,8/12/24,26551.17,NA,87,67,MT,26,16
+Monday,8/12/24,26551.17,NA,87,67,ST,12,8
+Monday,8/12/24,26551.17,NA,87,67,FW/WT,10,6
+Monday,8/12/24,26551.17,NA,87,67,Lemon,2,1.5
+Monday,8/12/24,26551.17,NA,87,67,Extras,65,58
+Tuesday,8/13/24,26149.37,NA,86,64,BBC,6,5
+Tuesday,8/13/24,26149.37,NA,86,64,WC,25,19
+Tuesday,8/13/24,26149.37,NA,86,64,MT,26,16
+Tuesday,8/13/24,26149.37,NA,86,64,ST,12,8
+Tuesday,8/13/24,26149.37,NA,86,64,FW/WT,6,6
+Tuesday,8/13/24,26149.37,NA,86,64,Lemon,2,2
+Tuesday,8/13/24,26149.37,NA,86,64,Extras,65,58
+Wednesday,8/14/24,25788.38,NA,86,65,BBC,5.5,3
+Wednesday,8/14/24,25788.38,NA,86,65,WC,24,21
+Wednesday,8/14/24,25788.38,NA,86,65,MT,22,14
+Wednesday,8/14/24,25788.38,NA,86,65,ST,9,6
+Wednesday,8/14/24,25788.38,NA,86,65,FW/WT,8,4
+Wednesday,8/14/24,25788.38,NA,86,65,Lemon,2,1.5
+Wednesday,8/14/24,25788.38,NA,86,65,Extras,58,51
+Thursday,8/15/24,23786.18,NA,88,64,BBC,6,4
+Thursday,8/15/24,23786.18,NA,88,64,WC,23,20
+Thursday,8/15/24,23786.18,NA,88,64,MT,21,8
+Thursday,8/15/24,23786.18,NA,88,64,ST,7,6
+Thursday,8/15/24,23786.18,NA,88,64,FW/WT,8,4
+Thursday,8/15/24,23786.18,NA,88,64,Lemon,2,2
+Thursday,8/15/24,23786.18,NA,88,64,Extras,62,57
+Friday,8/16/24,30905.1,NA,86,67,BBC,8,5
+Friday,8/16/24,30905.1,NA,86,67,WC,37,32
+Friday,8/16/24,30905.1,NA,86,67,MT,26,14
+Friday,8/16/24,30905.1,NA,86,67,ST,16,11
+Friday,8/16/24,30905.1,NA,86,67,FW/WT,8,6
+Friday,8/16/24,30905.1,NA,86,67,Lemon,4,2.5
+Friday,8/16/24,30905.1,NA,86,67,Extras,79,72
+Saturday,8/17/24,36050.05,NA,82,68,BBC,7,4
+Saturday,8/17/24,36050.05,NA,82,68,WC,37,34
+Saturday,8/17/24,36050.05,NA,82,68,MT,20,17
+Saturday,8/17/24,36050.05,NA,82,68,ST,15,11
+Saturday,8/17/24,36050.05,NA,82,68,FW/WT,10,7
+Saturday,8/17/24,36050.05,NA,82,68,Lemon,4,2
+Saturday,8/17/24,36050.05,NA,82,68,Extras,75,65
+Sunday,8/18/24,37115.07,NA,84,65,BBC,5,4.5
+Sunday,8/18/24,37115.07,NA,84,65,WC,39,31
+Sunday,8/18/24,37115.07,NA,84,65,MT,19,14
+Sunday,8/18/24,37115.07,NA,84,65,ST,12,12
+Sunday,8/18/24,37115.07,NA,84,65,FW/WT,13,7
+Sunday,8/18/24,37115.07,NA,84,65,Lemon,4,3
+Sunday,8/18/24,37115.07,NA,84,65,Extras,87,57
+Monday,8/19/24,22881,NA,91,63,BBC,4.5,4
+Monday,8/19/24,22881,NA,91,63,WC,25,18
+Monday,8/19/24,22881,NA,91,63,MT,22,11
+Monday,8/19/24,22881,NA,91,63,ST,12,6
+Monday,8/19/24,22881,NA,91,63,FW/WT,10,9
+Monday,8/19/24,22881,NA,91,63,Lemon,2,2
+Monday,8/19/24,22881,NA,91,63,Extras,68,58
+Tuesday,8/20/24,22544.99,NA,93,65,BBC,5,3
+Tuesday,8/20/24,22544.99,NA,93,65,WC,26,21
+Tuesday,8/20/24,22544.99,NA,93,65,MT,23,13
+Tuesday,8/20/24,22544.99,NA,93,65,ST,11,11
+Tuesday,8/20/24,22544.99,NA,93,65,FW/WT,9,8
+Tuesday,8/20/24,22544.99,NA,93,65,Lemon,2,1.5
+Tuesday,8/20/24,22544.99,NA,93,65,Extras,62,41
+Wednesday,8/21/24,23282.13,NA,90,65,BBC,6,3
+Wednesday,8/21/24,23282.13,NA,90,65,WC,25,22
+Wednesday,8/21/24,23282.13,NA,90,65,MT,18,6
+Wednesday,8/21/24,23282.13,NA,90,65,ST,13,6
+Wednesday,8/21/24,23282.13,NA,90,65,FW/WT,10,4
+Wednesday,8/21/24,23282.13,NA,90,65,Lemon,2,2
+Wednesday,8/21/24,23282.13,NA,90,65,Extras,57,43
+Thursday,8/22/24,22991.04,NA,84,67,BBC,3,3
+Thursday,8/22/24,22991.04,NA,84,67,WC,23,17
+Thursday,8/22/24,22991.04,NA,84,67,MT,21,11
+Thursday,8/22/24,22991.04,NA,84,67,ST,8,8
+Thursday,8/22/24,22991.04,NA,84,67,FW/WT,6,6
+Thursday,8/22/24,22991.04,NA,84,67,Lemon,2,2
+Thursday,8/22/24,22991.04,NA,84,67,Extras,50,48
+Friday,8/23/24,27824.91,NA,81,69,BBC,4,3
+Friday,8/23/24,27824.91,NA,81,69,WC,34,32
+Friday,8/23/24,27824.91,NA,81,69,MT,26,9
+Friday,8/23/24,27824.91,NA,81,69,ST,16,9
+Friday,8/23/24,27824.91,NA,81,69,FW/WT,8,6
+Friday,8/23/24,27824.91,NA,81,69,Lemon,2,2
+Friday,8/23/24,27824.91,NA,81,69,Extras,68,55
+Saturday,8/24/24,33853.34,NA,81,64,BBC,4,4
+Saturday,8/24/24,33853.34,NA,81,64,WC,34,28
+Saturday,8/24/24,33853.34,NA,81,64,MT,30,15
+Saturday,8/24/24,33853.34,NA,81,64,ST,11,10
+Saturday,8/24/24,33853.34,NA,81,64,FW/WT,10,9
+Saturday,8/24/24,33853.34,NA,81,64,Lemon,2,2
+Saturday,8/24/24,33853.34,NA,81,64,Extras,67,61
+Sunday,8/25/24,34118.03,NA,80,62,BBC,6,5
+Sunday,8/25/24,34118.03,NA,80,62,WC,31,28
+Sunday,8/25/24,34118.03,NA,80,62,MT,19,14
+Sunday,8/25/24,34118.03,NA,80,62,ST,12,12
+Sunday,8/25/24,34118.03,NA,80,62,FW/WT,8,6
+Sunday,8/25/24,34118.03,NA,80,62,Lemon,2,2
+Sunday,8/25/24,34118.03,NA,80,62,Extras,67,64
+Monday,8/26/24,25499.59,NA,85,61,BBC,5,3
+Monday,8/26/24,25499.59,NA,85,61,WC,17,17
+Monday,8/26/24,25499.59,NA,85,61,MT,21,5
+Monday,8/26/24,25499.59,NA,85,61,ST,8,5
+Monday,8/26/24,25499.59,NA,85,61,FW/WT,7,5
+Monday,8/26/24,25499.59,NA,85,61,Lemon,2,1
+Monday,8/26/24,25499.59,NA,85,61,Extras,53,45
+Tuesday,8/27/24,22229.03,NA,87,61,BBC,5,3
+Tuesday,8/27/24,22229.03,NA,87,61,WC,20,14
+Tuesday,8/27/24,22229.03,NA,87,61,MT,19,7
+Tuesday,8/27/24,22229.03,NA,87,61,ST,9,6
+Tuesday,8/27/24,22229.03,NA,87,61,FW/WT,8,3
+Tuesday,8/27/24,22229.03,NA,87,61,Lemon,2,1
+Tuesday,8/27/24,22229.03,NA,87,61,Extras,59,37
+Wednesday,8/28/24,23590.5,NA,82,63,BBC,5,4
+Wednesday,8/28/24,23590.5,NA,82,63,WC,16,15
+Wednesday,8/28/24,23590.5,NA,82,63,MT,19,8
+Wednesday,8/28/24,23590.5,NA,82,63,ST,6,5
+Wednesday,8/28/24,23590.5,NA,82,63,FW/WT,4,3
+Wednesday,8/28/24,23590.5,NA,82,63,Lemon,2,1
+Wednesday,8/28/24,23590.5,NA,82,63,Extras,42,33
+Thursday,8/29/24,24973.64,NA,83,63,BBC,6,2
+Thursday,8/29/24,24973.64,NA,83,63,WC,20,17
+Thursday,8/29/24,24973.64,NA,83,63,MT,20,9
+Thursday,8/29/24,24973.64,NA,83,63,ST,8,16
+Thursday,8/29/24,24973.64,NA,83,63,FW/WT,4,4
+Thursday,8/29/24,24973.64,NA,83,63,Lemon,2,1.5
+Thursday,8/29/24,24973.64,NA,83,63,Extras,42,38
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,BBC,4.5,4
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,WC,35,26
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,MT,15,12
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,ST,14,10
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,FW/WT,12,6
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,Lemon,2,1.5
+Friday,8/30/24,25316.75,Labor Day Weekend,81,61,Extras,68,58
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,BBC,6,3
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,WC,37,33
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,MT,19,17
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,ST,16,13
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,FW/WT,11,11
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,Lemon,2,2
+Saturday,8/31/24,37390.09,Labor Day Weekend,84,62,Extras,70,63
+Sunday,9/1/24,40526.35,High,88,65,BBC,7,7
+Sunday,9/1/24,40526.35,High,88,65,WC,36,36
+Sunday,9/1/24,40526.35,High,88,65,MT,22,22
+Sunday,9/1/24,40526.35,High,88,65,ST,14,14
+Sunday,9/1/24,40526.35,High,88,65,FW/WT,14,12
+Sunday,9/1/24,40526.35,High,88,65,Lemon,4,3
+Sunday,9/1/24,40526.35,High,88,65,Extras,76,67
+Monday,9/2/24,33422.05,Labor Day,89,66,BBC,10,7
+Monday,9/2/24,33422.05,Labor Day,89,66,WC,44,31
+Monday,9/2/24,33422.05,Labor Day,89,66,MT,28,8
+Monday,9/2/24,33422.05,Labor Day,89,66,ST,18,11
+Monday,9/2/24,33422.05,Labor Day,89,66,FW/WT,16,10
+Monday,9/2/24,33422.05,Labor Day,89,66,Lemon,4,3.5
+Monday,9/2/24,33422.05,Labor Day,89,66,Extras,83,67
+Tuesday,9/3/24,17240.13,NA,94,66,BBC,5,2
+Tuesday,9/3/24,17240.13,NA,94,66,WC,25,15
+Tuesday,9/3/24,17240.13,NA,94,66,MT,24,8
+Tuesday,9/3/24,17240.13,NA,94,66,ST,11,5.5
+Tuesday,9/3/24,17240.13,NA,94,66,FW/WT,10,3
+Tuesday,9/3/24,17240.13,NA,94,66,Lemon,2,1.5
+Tuesday,9/3/24,17240.13,NA,94,66,Extras,52,35
+Wednesday,9/4/24,18832.5,NA,95,67,BBC,5,2
+Wednesday,9/4/24,18832.5,NA,95,67,WC,25,15
+Wednesday,9/4/24,18832.5,NA,95,67,MT,24,8
+Wednesday,9/4/24,18832.5,NA,95,67,ST,11,5
+Wednesday,9/4/24,18832.5,NA,95,67,FW/WT,10,3
+Wednesday,9/4/24,18832.5,NA,95,67,Lemon,2,1.5
+Wednesday,9/4/24,18832.5,NA,95,67,Extras,52,35
+Thursday,9/5/24,21736.35,NA,104,69,BBC,4,4
+Thursday,9/5/24,21736.35,NA,104,69,WC,20,16
+Thursday,9/5/24,21736.35,NA,104,69,MT,24,12
+Thursday,9/5/24,21736.35,NA,104,69,ST,8,6
+Thursday,9/5/24,21736.35,NA,104,69,FW/WT,8,6
+Thursday,9/5/24,21736.35,NA,104,69,Lemon,2,1.5
+Thursday,9/5/24,21736.35,NA,104,69,Extras,45,39
+Friday,9/6/24,30661.36,NA,99,70,BBC,4,3
+Friday,9/6/24,30661.36,NA,99,70,WC,28,28
+Friday,9/6/24,30661.36,NA,99,70,MT,17,9
+Friday,9/6/24,30661.36,NA,99,70,ST,8,8
+Friday,9/6/24,30661.36,NA,99,70,FW/WT,8,5
+Friday,9/6/24,30661.36,NA,99,70,Lemon,2,2
+Friday,9/6/24,30661.36,NA,99,70,Extras,62,57
+Saturday,9/7/24,37007.95,NA,100,71,BBC,5,5
+Saturday,9/7/24,37007.95,NA,100,71,WC,36,31
+Saturday,9/7/24,37007.95,NA,100,71,MT,20,14
+Saturday,9/7/24,37007.95,NA,100,71,ST,16,10
+Saturday,9/7/24,37007.95,NA,100,71,FW/WT,11,11
+Saturday,9/7/24,37007.95,NA,100,71,Lemon,4,4
+Saturday,9/7/24,37007.95,NA,100,71,Extras,79,74
+Sunday,9/8/24,34617.86,NA,106,73,BBC,8,6
+Sunday,9/8/24,34617.86,NA,106,73,WC,36,31
+Sunday,9/8/24,34617.86,NA,106,73,MT,26,14
+Sunday,9/8/24,34617.86,NA,106,73,ST,18,13
+Sunday,9/8/24,34617.86,NA,106,73,FW/WT,12,7
+Sunday,9/8/24,34617.86,NA,106,73,Lemon,6,4
+Sunday,9/8/24,34617.86,NA,106,73,Extras,88,71
+Monday,9/9/24,20629.37,NA,98,73,BBC,6,4
+Monday,9/9/24,20629.37,NA,98,73,WC,28,20
+Monday,9/9/24,20629.37,NA,98,73,MT,24,10
+Monday,9/9/24,20629.37,NA,98,73,ST,7,7
+Monday,9/9/24,20629.37,NA,98,73,FW/WT,7,6
+Monday,9/9/24,20629.37,NA,98,73,Lemon,2,1.5
+Monday,9/9/24,20629.37,NA,98,73,Extras,43,38
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,BBC,4,2
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,WC,20,14
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,MT,24,7
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,ST,6,6
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,FW/WT,4,3
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,Lemon,2,1.5
+Tuesday,9/10/24,17989.01,RE+24 Conv,92,67,Extras,38,31
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,BBC,3,2
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,WC,18,15
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,MT,21,8
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,ST,8,5
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,FW/WT,5,3
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,Lemon,2,1.5
+Wednesday,9/11/24,17071.87,RE+24 Conv,78,61,Extras,36,29
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,BBC,4,2
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,WC,18,16
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,MT,21,6
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,ST,7,6
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,FW/WT,5,3
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,Lemon,2,1.5
+Thursday,9/12/24,17555.4,RE+24 Conv,79,61,Extras,36,30
+Friday,9/13/24,26598.19,NA,80,63,BBC,6,5
+Friday,9/13/24,26598.19,NA,80,63,WC,26,24
+Friday,9/13/24,26598.19,NA,80,63,MT,25,11
+Friday,9/13/24,26598.19,NA,80,63,ST,10,10
+Friday,9/13/24,26598.19,NA,80,63,FW/WT,6,6
+Friday,9/13/24,26598.19,NA,80,63,Lemon,2,2
+Friday,9/13/24,26598.19,NA,80,63,Extras,47,47
+Saturday,9/14/24,29189.3,NA,79,62,BBC,7,4
+Saturday,9/14/24,29189.3,NA,79,62,WC,30,28
+Saturday,9/14/24,29189.3,NA,79,62,MT,22,9
+Saturday,9/14/24,29189.3,NA,79,62,ST,12,9
+Saturday,9/14/24,29189.3,NA,79,62,FW/WT,6,5
+Saturday,9/14/24,29189.3,NA,79,62,Lemon,2,2
+Saturday,9/14/24,29189.3,NA,79,62,Extras,69,65
+Sunday,9/15/24,29977.22,NA,77,64,BBC,6,4
+Sunday,9/15/24,29977.22,NA,77,64,WC,30,26
+Sunday,9/15/24,29977.22,NA,77,64,MT,27,12
+Sunday,9/15/24,29977.22,NA,77,64,ST,9,7
+Sunday,9/15/24,29977.22,NA,77,64,FW/WT,6,4
+Sunday,9/15/24,29977.22,NA,77,64,Lemon,2,2
+Sunday,9/15/24,29977.22,NA,77,64,Extras,70,65
+Monday,9/16/24,16358.87,NA,74,62,BBC,4,3
+Monday,9/16/24,16358.87,NA,74,62,WC,18,16
+Monday,9/16/24,16358.87,NA,74,62,MT,27,8
+Monday,9/16/24,16358.87,NA,74,62,ST,8,6
+Monday,9/16/24,16358.87,NA,74,62,FW/WT,6,5
+Monday,9/16/24,16358.87,NA,74,62,Lemon,2,1.5
+Monday,9/16/24,16358.87,NA,74,62,Extras,36,31
+Tuesday,9/17/24,14467.87,NA,76,58,BBC,3,2
+Tuesday,9/17/24,14467.87,NA,76,58,WC,19,12
+Tuesday,9/17/24,14467.87,NA,76,58,MT,21,6
+Tuesday,9/17/24,14467.87,NA,76,58,ST,9,3
+Tuesday,9/17/24,14467.87,NA,76,58,FW/WT,7,4
+Tuesday,9/17/24,14467.87,NA,76,58,Lemon,2,1.5
+Tuesday,9/17/24,14467.87,NA,76,58,Extras,36,29
+Wednesday,9/18/24,16060.94,NA,76,58,BBC,3,2
+Wednesday,9/18/24,16060.94,NA,76,58,WC,17,13
+Wednesday,9/18/24,16060.94,NA,76,58,MT,19,6
+Wednesday,9/18/24,16060.94,NA,76,58,ST,6,5
+Wednesday,9/18/24,16060.94,NA,76,58,FW/WT,5,3
+Wednesday,9/18/24,16060.94,NA,76,58,Lemon,2,1.5
+Wednesday,9/18/24,16060.94,NA,76,58,Extras,33,24
+Thursday,9/19/24,14884.54,NA,75,61,BBC,3,3
+Thursday,9/19/24,14884.54,NA,75,61,WC,17,11
+Thursday,9/19/24,14884.54,NA,75,61,MT,21,8
+Thursday,9/19/24,14884.54,NA,75,61,ST,5,5
+Thursday,9/19/24,14884.54,NA,75,61,FW/WT,4,4
+Thursday,9/19/24,14884.54,NA,75,61,Lemon,2,1.5
+Thursday,9/19/24,14884.54,NA,75,61,Extras,33,31
+Friday,9/20/24,25392.01,NA,76,61,BBC,8,3
+Friday,9/20/24,25392.01,NA,76,61,WC,34,19
+Friday,9/20/24,25392.01,NA,76,61,MT,25,9
+Friday,9/20/24,25392.01,NA,76,61,ST,12,7
+Friday,9/20/24,25392.01,NA,76,61,FW/WT,8,4
+Friday,9/20/24,25392.01,NA,76,61,Lemon,4,2
+Friday,9/20/24,25392.01,NA,76,61,Extras,68,46
+Saturday,9/21/24,31045.96,NA,77,61,BBC,8,4
+Saturday,9/21/24,31045.96,NA,77,61,WC,35,22
+Saturday,9/21/24,31045.96,NA,77,61,MT,28,12
+Saturday,9/21/24,31045.96,NA,77,61,ST,17,10
+Saturday,9/21/24,31045.96,NA,77,61,FW/WT,12,10
+Saturday,9/21/24,31045.96,NA,77,61,Lemon,2,2
+Saturday,9/21/24,31045.96,NA,77,61,Extras,72,63
+Sunday,9/22/24,31858.54,NA,82,59,BBC,5,3
+Sunday,9/22/24,31858.54,NA,82,59,WC,29,26
+Sunday,9/22/24,31858.54,NA,82,59,MT,20,11
+Sunday,9/22/24,31858.54,NA,82,59,ST,12,12
+Sunday,9/22/24,31858.54,NA,82,59,FW/WT,6,5
+Sunday,9/22/24,31858.54,NA,82,59,Lemon,2,2
+Sunday,9/22/24,31858.54,NA,82,59,Extras,75,56
+Monday,9/23/24,17462.38,NA,81,60,BBC,3,2.5
+Monday,9/23/24,17462.38,NA,81,60,WC,19,14
+Monday,9/23/24,17462.38,NA,81,60,MT,17,7
+Monday,9/23/24,17462.38,NA,81,60,ST,8,3
+Monday,9/23/24,17462.38,NA,81,60,FW/WT,6,4
+Monday,9/23/24,17462.38,NA,81,60,Lemon,2,2
+Monday,9/23/24,17462.38,NA,81,60,Extras,34,29
+Tuesday,9/24/24,15470.38,NA,80,62,BBC,3,2.5
+Tuesday,9/24/24,15470.38,NA,80,62,WC,17,15
+Tuesday,9/24/24,15470.38,NA,80,62,MT,18,4
+Tuesday,9/24/24,15470.38,NA,80,62,ST,7,4
+Tuesday,9/24/24,15470.38,NA,80,62,FW/WT,6,4
+Tuesday,9/24/24,15470.38,NA,80,62,Lemon,2,2
+Tuesday,9/24/24,15470.38,NA,80,62,Extras,34,27
+Wednesday,9/25/24,15179.91,NA,77,61,BBC,3,2.5
+Wednesday,9/25/24,15179.91,NA,77,61,WC,18,14
+Wednesday,9/25/24,15179.91,NA,77,61,MT,15,5
+Wednesday,9/25/24,15179.91,NA,77,61,ST,5,3
+Wednesday,9/25/24,15179.91,NA,77,61,FW/WT,5,4
+Wednesday,9/25/24,15179.91,NA,77,61,Lemon,2,1.5
+Wednesday,9/25/24,15179.91,NA,77,61,Extras,34,26
+Thursday,9/26/24,17455.95,NA,78,62,BBC,4,4
+Thursday,9/26/24,17455.95,NA,78,62,WC,20,17
+Thursday,9/26/24,17455.95,NA,78,62,MT,18,6
+Thursday,9/26/24,17455.95,NA,78,62,ST,6,6
+Thursday,9/26/24,17455.95,NA,78,62,FW/WT,5,4
+Thursday,9/26/24,17455.95,NA,78,62,Lemon,2,1.5
+Thursday,9/26/24,17455.95,NA,78,62,Extras,35,28
+Friday,9/27/24,24421.83,NA,77,58,BBC,4,2
+Friday,9/27/24,24421.83,NA,77,58,WC,22,15
+Friday,9/27/24,24421.83,NA,77,58,MT,20,5
+Friday,9/27/24,24421.83,NA,77,58,ST,12,5
+Friday,9/27/24,24421.83,NA,77,58,FW/WT,5,2
+Friday,9/27/24,24421.83,NA,77,58,Lemon,2,2
+Friday,9/27/24,24421.83,NA,77,58,Extras,52,47
+Saturday,9/28/24,30607.23,NA,79,57,BBC,4,4
+Saturday,9/28/24,30607.23,NA,79,57,WC,27,24
+Saturday,9/28/24,30607.23,NA,79,57,MT,20,13
+Saturday,9/28/24,30607.23,NA,79,57,ST,13,7
+Saturday,9/28/24,30607.23,NA,79,57,FW/WT,7,7
+Saturday,9/28/24,30607.23,NA,79,57,Lemon,2,2
+Saturday,9/28/24,30607.23,NA,79,57,Extras,71,68
+Sunday,9/29/24,28512.64,NA,81,57,BBC,4,3.5
+Sunday,9/29/24,28512.64,NA,81,57,WC,30,25
+Sunday,9/29/24,28512.64,NA,81,57,MT,19,8
+Sunday,9/29/24,28512.64,NA,81,57,ST,13,9
+Sunday,9/29/24,28512.64,NA,81,57,FW/WT,8,5
+Sunday,9/29/24,28512.64,NA,81,57,Lemon,2,2
+Sunday,9/29/24,28512.64,NA,81,57,Extras,71,57
+Monday,9/30/24,15924.57,NA,82,56,BBC,2.5,2
+Monday,9/30/24,15924.57,NA,82,56,WC,17,12
+Monday,9/30/24,15924.57,NA,82,56,MT,19,8
+Monday,9/30/24,15924.57,NA,82,56,ST,6,4
+Monday,9/30/24,15924.57,NA,82,56,FW/WT,5,5
+Monday,9/30/24,15924.57,NA,82,56,Lemon,2,1.5
+Monday,9/30/24,15924.57,NA,82,56,Extras,32,26
+Tuesday,10/1/24,14460.26,NA,85,59,BBC,2,2
+Tuesday,10/1/24,14460.26,NA,85,59,WC,21,16
+Tuesday,10/1/24,14460.26,NA,85,59,MT,15,6
+Tuesday,10/1/24,14460.26,NA,85,59,ST,6,4
+Tuesday,10/1/24,14460.26,NA,85,59,FW/WT,4,3
+Tuesday,10/1/24,14460.26,NA,85,59,Lemon,2,1.5
+Tuesday,10/1/24,14460.26,NA,85,59,Extras,34,33
+Wednesday,10/2/24,15283.27,NA,87,60,BBC,2,2
+Wednesday,10/2/24,15283.27,NA,87,60,WC,17,16
+Wednesday,10/2/24,15283.27,NA,87,60,MT,17,6
+Wednesday,10/2/24,15283.27,NA,87,60,ST,6,5
+Wednesday,10/2/24,15283.27,NA,87,60,FW/WT,4,4
+Wednesday,10/2/24,15283.27,NA,87,60,Lemon,2,1.5
+Wednesday,10/2/24,15283.27,NA,87,60,Extras,34,30
+Thursday,10/3/24,15287.67,NA,83,61,BBC,3,2
+Thursday,10/3/24,15287.67,NA,83,61,WC,19,13
+Thursday,10/3/24,15287.67,NA,83,61,MT,19,9
+Thursday,10/3/24,15287.67,NA,83,61,ST,7,7
+Thursday,10/3/24,15287.67,NA,83,61,FW/WT,4,2
+Thursday,10/3/24,15287.67,NA,83,61,Lemon,2,1.5
+Thursday,10/3/24,15287.67,NA,83,61,Extras,35,31
+Friday,10/4/24,26667.78,NA,80,62,BBC,3,3
+Friday,10/4/24,26667.78,NA,80,62,WC,26,23
+Friday,10/4/24,26667.78,NA,80,62,MT,18,12
+Friday,10/4/24,26667.78,NA,80,62,ST,12,7
+Friday,10/4/24,26667.78,NA,80,62,FW/WT,6,5
+Friday,10/4/24,26667.78,NA,80,62,Lemon,2,2
+Friday,10/4/24,26667.78,NA,80,62,Extras,56,51
+Saturday,10/5/24,32457.18,NA,87,62,BBC,4,4
+Saturday,10/5/24,32457.18,NA,87,62,WC,27,20
+Saturday,10/5/24,32457.18,NA,87,62,MT,18,12
+Saturday,10/5/24,32457.18,NA,87,62,ST,13,9
+Saturday,10/5/24,32457.18,NA,87,62,FW/WT,8,6
+Saturday,10/5/24,32457.18,NA,87,62,Lemon,2,2
+Saturday,10/5/24,32457.18,NA,87,62,Extras,76,66
+Sunday,10/6/24,31468.98,NA,86,61,BBC,4,3
+Sunday,10/6/24,31468.98,NA,86,61,WC,27,24
+Sunday,10/6/24,31468.98,NA,86,61,MT,17,10
+Sunday,10/6/24,31468.98,NA,86,61,ST,12,10
+Sunday,10/6/24,31468.98,NA,86,61,FW/WT,8,3
+Sunday,10/6/24,31468.98,NA,86,61,Lemon,2,2
+Sunday,10/6/24,31468.98,NA,86,61,Extras,75,59
+Monday,10/7/24,17271.19,NA,83,60,BBC,3,2
+Monday,10/7/24,17271.19,NA,83,60,WC,18,21
+Monday,10/7/24,17271.19,NA,83,60,MT,15,5
+Monday,10/7/24,17271.19,NA,83,60,ST,6,4
+Monday,10/7/24,17271.19,NA,83,60,FW/WT,6,4
+Monday,10/7/24,17271.19,NA,83,60,Lemon,2,2
+Monday,10/7/24,17271.19,NA,83,60,Extras,32,28
+Tuesday,10/8/24,14086.59,NA,82,57,BBC,2,1.5
+Tuesday,10/8/24,14086.59,NA,82,57,WC,19,14
+Tuesday,10/8/24,14086.59,NA,82,57,MT,14,7
+Tuesday,10/8/24,14086.59,NA,82,57,ST,4,4
+Tuesday,10/8/24,14086.59,NA,82,57,FW/WT,4,2
+Tuesday,10/8/24,14086.59,NA,82,57,Lemon,2,1
+Tuesday,10/8/24,14086.59,NA,82,57,Extras,32,28
+Wednesday,10/9/24,13820.16,NA,82,58,BBC,3,2
+Wednesday,10/9/24,13820.16,NA,82,58,WC,21,8
+Wednesday,10/9/24,13820.16,NA,82,58,MT,15,7
+Wednesday,10/9/24,13820.16,NA,82,58,ST,8,4
+Wednesday,10/9/24,13820.16,NA,82,58,FW/WT,4,2
+Wednesday,10/9/24,13820.16,NA,82,58,Lemon,2,2
+Wednesday,10/9/24,13820.16,NA,82,58,Extras,30,27
+Thursday,10/10/24,16008.93,NA,79,59,BBC,2,1
+Thursday,10/10/24,16008.93,NA,79,59,WC,25,22
+Thursday,10/10/24,16008.93,NA,79,59,MT,19,10
+Thursday,10/10/24,16008.93,NA,79,59,ST,8,8
+Thursday,10/10/24,16008.93,NA,79,59,FW/WT,4,3.5
+Thursday,10/10/24,16008.93,NA,79,59,Lemon,2,2
+Thursday,10/10/24,16008.93,NA,79,59,Extras,31,27
+Friday,10/11/24,25649.4,NA,83,57,BBC,5,3
+Friday,10/11/24,25649.4,NA,83,57,WC,27,19
+Friday,10/11/24,25649.4,NA,83,57,MT,17,2
+Friday,10/11/24,25649.4,NA,83,57,ST,12,6
+Friday,10/11/24,25649.4,NA,83,57,FW/WT,8,5
+Friday,10/11/24,25649.4,NA,83,57,Lemon,2,2
+Friday,10/11/24,25649.4,NA,83,57,Extras,56,47
+Saturday,10/12/24,31193.08,NA,79,57,BBC,4,3
+Saturday,10/12/24,31193.08,NA,79,57,WC,30,29
+Saturday,10/12/24,31193.08,NA,79,57,MT,13,9
+Saturday,10/12/24,31193.08,NA,79,57,ST,12,11
+Saturday,10/12/24,31193.08,NA,79,57,FW/WT,6,5
+Saturday,10/12/24,31193.08,NA,79,57,Lemon,2,2
+Saturday,10/12/24,31193.08,NA,79,57,Extras,65,57
+Sunday,10/13/24,29209.96,NA,76,58,BBC,4,3
+Sunday,10/13/24,29209.96,NA,76,58,WC,32,22
+Sunday,10/13/24,29209.96,NA,76,58,MT,20,11
+Sunday,10/13/24,29209.96,NA,76,58,ST,13,8
+Sunday,10/13/24,29209.96,NA,76,58,FW/WT,12,8
+Sunday,10/13/24,29209.96,NA,76,58,Lemon,2,2
+Sunday,10/13/24,29209.96,NA,76,58,Extras,70,48
+Monday,10/14/24,17116.98,NA,73,60,BBC,2,2
+Monday,10/14/24,17116.98,NA,73,60,WC,20,16
+Monday,10/14/24,17116.98,NA,73,60,MT,15,13
+Monday,10/14/24,17116.98,NA,73,60,ST,5,5
+Monday,10/14/24,17116.98,NA,73,60,FW/WT,4,4
+Monday,10/14/24,17116.98,NA,73,60,Lemon,2,1.5
+Monday,10/14/24,17116.98,NA,73,60,Extras,35,32
+Tuesday,10/15/24,12491.86,NA,73,60,BBC,2,2
+Tuesday,10/15/24,12491.86,NA,73,60,WC,20,12
+Tuesday,10/15/24,12491.86,NA,73,60,MT,19,2
+Tuesday,10/15/24,12491.86,NA,73,60,ST,6,4
+Tuesday,10/15/24,12491.86,NA,73,60,FW/WT,2,2
+Tuesday,10/15/24,12491.86,NA,73,60,Lemon,2,1.5
+Tuesday,10/15/24,12491.86,NA,73,60,Extras,32,26
+Wednesday,10/16/24,12651.93,NA,75,59,BBC,4,1
+Wednesday,10/16/24,12651.93,NA,75,59,WC,16,10
+Wednesday,10/16/24,12651.93,NA,75,59,MT,20,8
+Wednesday,10/16/24,12651.93,NA,75,59,ST,6,4
+Wednesday,10/16/24,12651.93,NA,75,59,FW/WT,4,3
+Wednesday,10/16/24,12651.93,NA,75,59,Lemon,1,1
+Wednesday,10/16/24,12651.93,NA,75,59,Extras,30,23
+Thursday,10/17/24,14228.88,NA,73,60,BBC,3,2
+Thursday,10/17/24,14228.88,NA,73,60,WC,14,12
+Thursday,10/17/24,14228.88,NA,73,60,MT,16,4
+Thursday,10/17/24,14228.88,NA,73,60,ST,6,3
+Thursday,10/17/24,14228.88,NA,73,60,FW/WT,4,3
+Thursday,10/17/24,14228.88,NA,73,60,Lemon,1,1
+Thursday,10/17/24,14228.88,NA,73,60,Extras,29,25
+Friday,10/18/24,22720.08,NA,75,57,BBC,4,3
+Friday,10/18/24,22720.08,NA,75,57,WC,24,16
+Friday,10/18/24,22720.08,NA,75,57,MT,20,10
+Friday,10/18/24,22720.08,NA,75,57,ST,9,7
+Friday,10/18/24,22720.08,NA,75,57,FW/WT,6,4
+Friday,10/18/24,22720.08,NA,75,57,Lemon,2,1.5
+Friday,10/18/24,22720.08,NA,75,57,Extras,49,44
+Saturday,10/19/24,27642.56,NA,79,54,BBC,5,5
+Saturday,10/19/24,27642.56,NA,79,54,WC,31,22
+Saturday,10/19/24,27642.56,NA,79,54,MT,21,9
+Saturday,10/19/24,27642.56,NA,79,54,ST,12,9
+Saturday,10/19/24,27642.56,NA,79,54,FW/WT,6,6
+Saturday,10/19/24,27642.56,NA,79,54,Lemon,2,2
+Saturday,10/19/24,27642.56,NA,79,54,Extras,60,51
+Sunday,10/20/24,29099.85,NA,83,54,BBC,6,4
+Sunday,10/20/24,29099.85,NA,83,54,WC,25,25
+Sunday,10/20/24,29099.85,NA,83,54,MT,19,6
+Sunday,10/20/24,29099.85,NA,83,54,ST,12,12
+Sunday,10/20/24,29099.85,NA,83,54,FW/WT,6,6
+Sunday,10/20/24,29099.85,NA,83,54,Lemon,2,2
+Sunday,10/20/24,29099.85,NA,83,54,Extras,61,55
+Monday,10/21/24,15525.16,NA,83,56,BBC,2,2
+Monday,10/21/24,15525.16,NA,83,56,WC,20,14
+Monday,10/21/24,15525.16,NA,83,56,MT,11,5
+Monday,10/21/24,15525.16,NA,83,56,ST,6,5
+Monday,10/21/24,15525.16,NA,83,56,FW/WT,6,3
+Monday,10/21/24,15525.16,NA,83,56,Lemon,2,2
+Monday,10/21/24,15525.16,NA,83,56,Extras,37,25
+Tuesday,10/22/24,13857.85,NA,84,55,BBC,2,2
+Tuesday,10/22/24,13857.85,NA,84,55,WC,21,12
+Tuesday,10/22/24,13857.85,NA,84,55,MT,17,5
+Tuesday,10/22/24,13857.85,NA,84,55,ST,6,4
+Tuesday,10/22/24,13857.85,NA,84,55,FW/WT,2,2
+Tuesday,10/22/24,13857.85,NA,84,55,Lemon,2,1
+Tuesday,10/22/24,13857.85,NA,84,55,Extras,30,24
+Wednesday,10/23/24,14506.83,NA,83,56,BBC,4,3
+Wednesday,10/23/24,14506.83,NA,83,56,WC,15,12
+Wednesday,10/23/24,14506.83,NA,83,56,MT,15,4
+Wednesday,10/23/24,14506.83,NA,83,56,ST,5,3
+Wednesday,10/23/24,14506.83,NA,83,56,FW/WT,4,3
+Wednesday,10/23/24,14506.83,NA,83,56,Lemon,1,1
+Wednesday,10/23/24,14506.83,NA,83,56,Extras,30,28
+Thursday,10/24/24,15331.82,NA,80,54,BBC,3,2
+Thursday,10/24/24,15331.82,NA,80,54,WC,16,12
+Thursday,10/24/24,15331.82,NA,80,54,MT,15,9
+Thursday,10/24/24,15331.82,NA,80,54,ST,6,6
+Thursday,10/24/24,15331.82,NA,80,54,FW/WT,4,2
+Thursday,10/24/24,15331.82,NA,80,54,Lemon,1,1
+Thursday,10/24/24,15331.82,NA,80,54,Extras,33,30
+Friday,10/25/24,18920.92,NA,77,55,BBC,5,2
+Friday,10/25/24,18920.92,NA,77,55,WC,27,18
+Friday,10/25/24,18920.92,NA,77,55,MT,22,11
+Friday,10/25/24,18920.92,NA,77,55,ST,12,6
+Friday,10/25/24,18920.92,NA,77,55,FW/WT,6,4
+Friday,10/25/24,18920.92,NA,77,55,Lemon,2,2
+Friday,10/25/24,18920.92,NA,77,55,Extras,50,42
+Saturday,10/26/24,28314.58,NA,80,53,BBC,6,4
+Saturday,10/26/24,28314.58,NA,80,53,WC,29,26
+Saturday,10/26/24,28314.58,NA,80,53,MT,19,12
+Saturday,10/26/24,28314.58,NA,80,53,ST,10,8
+Saturday,10/26/24,28314.58,NA,80,53,FW/WT,6,6
+Saturday,10/26/24,28314.58,NA,80,53,Lemon,2,2
+Saturday,10/26/24,28314.58,NA,80,53,Extras,60,51
+Sunday,10/27/24,28782.32,NA,79,57,BBC,6,4
+Sunday,10/27/24,28782.32,NA,79,57,WC,31,23
+Sunday,10/27/24,28782.32,NA,79,57,MT,16,9
+Sunday,10/27/24,28782.32,NA,79,57,ST,13,8
+Sunday,10/27/24,28782.32,NA,79,57,FW/WT,8,5
+Sunday,10/27/24,28782.32,NA,79,57,Lemon,2,2
+Sunday,10/27/24,28782.32,NA,79,57,Extras,62,52
+Monday,10/28/24,12166.52,NA,71,72,BBC,3,2
+Monday,10/28/24,12166.52,NA,71,72,WC,18,12
+Monday,10/28/24,12166.52,NA,71,72,MT,15,4
+Monday,10/28/24,12166.52,NA,71,72,ST,7,3
+Monday,10/28/24,12166.52,NA,71,72,FW/WT,4,3
+Monday,10/28/24,12166.52,NA,71,72,Lemon,2,2
+Monday,10/28/24,12166.52,NA,71,72,Extras,32,27
+Tuesday,10/29/24,11434.18,NA,74,49,BBC,3,1
+Tuesday,10/29/24,11434.18,NA,74,49,WC,18,12
+Tuesday,10/29/24,11434.18,NA,74,49,MT,19,17
+Tuesday,10/29/24,11434.18,NA,74,49,ST,8,4
+Tuesday,10/29/24,11434.18,NA,74,49,FW/WT,4,2
+Tuesday,10/29/24,11434.18,NA,74,49,Lemon,2,1.5
+Tuesday,10/29/24,11434.18,NA,74,49,Extras,31,27
+Wednesday,10/30/24,11732.47,NA,74,49,BBC,4,1
+Wednesday,10/30/24,11732.47,NA,74,49,WC,14,9
+Wednesday,10/30/24,11732.47,NA,74,49,MT,20,6
+Wednesday,10/30/24,11732.47,NA,74,49,ST,6,5
+Wednesday,10/30/24,11732.47,NA,74,49,FW/WT,4,2
+Wednesday,10/30/24,11732.47,NA,74,49,Lemon,2,1.5
+Wednesday,10/30/24,11732.47,NA,74,49,Extras,31,23
+Thursday,10/31/24,13131.97,Halloween,72,48,BBC,3,3
+Thursday,10/31/24,13131.97,Halloween,72,48,WC,15,13
+Thursday,10/31/24,13131.97,Halloween,72,48,MT,18,6
+Thursday,10/31/24,13131.97,Halloween,72,48,ST,5,5
+Thursday,10/31/24,13131.97,Halloween,72,48,FW/WT,4,4
+Thursday,10/31/24,13131.97,Halloween,72,48,Lemon,2,2
+Thursday,10/31/24,13131.97,Halloween,72,48,Extras,33,31
+Friday,11/1/24,22940.15,NA,72,48,BBC,5,4
+Friday,11/1/24,22940.15,NA,72,48,WC,24,19
+Friday,11/1/24,22940.15,NA,72,48,MT,25,10
+Friday,11/1/24,22940.15,NA,72,48,ST,12,7
+Friday,11/1/24,22940.15,NA,72,48,FW/WT,4,4
+Friday,11/1/24,22940.15,NA,72,48,Lemon,2,2
+Friday,11/1/24,22940.15,NA,72,48,Extras,51,48
+Saturday,11/2/24,23975.77,NA,68,52,BBC,5,3
+Saturday,11/2/24,23975.77,NA,68,52,WC,28,19
+Saturday,11/2/24,23975.77,NA,68,52,MT,19,10
+Saturday,11/2/24,23975.77,NA,68,52,ST,9,7
+Saturday,11/2/24,23975.77,NA,68,52,FW/WT,6,6
+Saturday,11/2/24,23975.77,NA,68,52,Lemon,2,2
+Saturday,11/2/24,23975.77,NA,68,52,Extras,60,50
+Sunday,11/3/24,26716.9,NA,73,54,BBC,5,4
+Sunday,11/3/24,26716.9,NA,73,54,WC,25,23
+Sunday,11/3/24,26716.9,NA,73,54,MT,17,11
+Sunday,11/3/24,26716.9,NA,73,54,ST,10,6
+Sunday,11/3/24,26716.9,NA,73,54,FW/WT,6,4
+Sunday,11/3/24,26716.9,NA,73,54,Lemon,2,2
+Sunday,11/3/24,26716.9,NA,73,54,Extras,60,51
+Monday,11/4/24,13824.74,NA,77,52,BBC,3,1.5
+Monday,11/4/24,13824.74,NA,77,52,WC,14,8
+Monday,11/4/24,13824.74,NA,77,52,MT,14,4
+Monday,11/4/24,13824.74,NA,77,52,ST,4,4
+Monday,11/4/24,13824.74,NA,77,52,FW/WT,4,2
+Monday,11/4/24,13824.74,NA,77,52,Lemon,2,1
+Monday,11/4/24,13824.74,NA,77,52,Extras,32,21
+Tuesday,11/5/24,12344.46,NA,74,47,BBC,4,2
+Tuesday,11/5/24,12344.46,NA,74,47,WC,12,11
+Tuesday,11/5/24,12344.46,NA,74,47,MT,14,5
+Tuesday,11/5/24,12344.46,NA,74,47,ST,5,4
+Tuesday,11/5/24,12344.46,NA,74,47,FW/WT,4,2
+Tuesday,11/5/24,12344.46,NA,74,47,Lemon,2,1
+Tuesday,11/5/24,12344.46,NA,74,47,Extras,35,26
+Wednesday,11/6/24,11010.43,NA,75,52,BBC,4,2
+Wednesday,11/6/24,11010.43,NA,75,52,WC,13,8
+Wednesday,11/6/24,11010.43,NA,75,52,MT,17,5
+Wednesday,11/6/24,11010.43,NA,75,52,ST,5,3
+Wednesday,11/6/24,11010.43,NA,75,52,FW/WT,2,2
+Wednesday,11/6/24,11010.43,NA,75,52,Lemon,1,1
+Wednesday,11/6/24,11010.43,NA,75,52,Extras,27,22
+Thursday,11/7/24,14435.76,NA,75,52,BBC,2,2
+Thursday,11/7/24,14435.76,NA,75,52,WC,13,13
+Thursday,11/7/24,14435.76,NA,75,52,MT,16,8
+Thursday,11/7/24,14435.76,NA,75,52,ST,6,5
+Thursday,11/7/24,14435.76,NA,75,52,FW/WT,2,2
+Thursday,11/7/24,14435.76,NA,75,52,Lemon,1,1
+Thursday,11/7/24,14435.76,NA,75,52,Extras,29,27
+Friday,11/8/24,22025.12,NA,74,46,BBC,4,3
+Friday,11/8/24,22025.12,NA,74,46,WC,24,17
+Friday,11/8/24,22025.12,NA,74,46,MT,20,7
+Friday,11/8/24,22025.12,NA,74,46,ST,9,6
+Friday,11/8/24,22025.12,NA,74,46,FW/WT,4,3
+Friday,11/8/24,22025.12,NA,74,46,Lemon,4,1.75
+Friday,11/8/24,22025.12,NA,74,46,Extras,55,43
+Saturday,11/9/24,30033.2,NA,75,47,BBC,5,3.75
+Saturday,11/9/24,30033.2,NA,75,47,WC,23,22.5
+Saturday,11/9/24,30033.2,NA,75,47,MT,21,11
+Saturday,11/9/24,30033.2,NA,75,47,ST,11,11
+Saturday,11/9/24,30033.2,NA,75,47,FW/WT,4,4
+Saturday,11/9/24,30033.2,NA,75,47,Lemon,2,1.5
+Saturday,11/9/24,30033.2,NA,75,47,Extras,55,44
+Sunday,11/10/24,26551.95,NA,76,47,BBC,5,3.5
+Sunday,11/10/24,26551.95,NA,76,47,WC,28,25
+Sunday,11/10/24,26551.95,NA,76,47,MT,17,10
+Sunday,11/10/24,26551.95,NA,76,47,ST,10,5
+Sunday,11/10/24,26551.95,NA,76,47,FW/WT,6,5
+Sunday,11/10/24,26551.95,NA,76,47,Lemon,2,2
+Sunday,11/10/24,26551.95,NA,76,47,Extras,56,46
+Monday,11/11/24,20679.12,NA,70,46,BBC,4,4
+Monday,11/11/24,20679.12,NA,70,46,WC,23,16.5
+Monday,11/11/24,20679.12,NA,70,46,MT,11,9
+Monday,11/11/24,20679.12,NA,70,46,ST,9,6
+Monday,11/11/24,20679.12,NA,70,46,FW/WT,6,4
+Monday,11/11/24,20679.12,NA,70,46,Lemon,2,1.5
+Monday,11/11/24,20679.12,NA,70,46,Extras,48,36
+Tuesday,11/12/24,11532.28,NA,72,52,BBC,2,1.5
+Tuesday,11/12/24,11532.28,NA,72,52,WC,18.5,11.5
+Tuesday,11/12/24,11532.28,NA,72,52,MT,14,4
+Tuesday,11/12/24,11532.28,NA,72,52,ST,5,3
+Tuesday,11/12/24,11532.28,NA,72,52,FW/WT,4,2.5
+Tuesday,11/12/24,11532.28,NA,72,52,Lemon,2,1
+Tuesday,11/12/24,11532.28,NA,72,52,Extras,34.5,17.5
+Wednesday,11/13/24,12305.81,NA,78,48,BBC,2.5,1.5
+Wednesday,11/13/24,12305.81,NA,78,48,WC,15,10
+Wednesday,11/13/24,12305.81,NA,78,48,MT,14,4
+Wednesday,11/13/24,12305.81,NA,78,48,ST,5,3
+Wednesday,11/13/24,12305.81,NA,78,48,FW/WT,2,2
+Wednesday,11/13/24,12305.81,NA,78,48,Lemon,1,0.75
+Wednesday,11/13/24,12305.81,NA,78,48,Extras,27,21
+Thursday,11/14/24,13734.04,NA,73,48,BBC,3,1.5
+Thursday,11/14/24,13734.04,NA,73,48,WC,17,13
+Thursday,11/14/24,13734.04,NA,73,48,MT,13.5,5.5
+Thursday,11/14/24,13734.04,NA,73,48,ST,6,4
+Thursday,11/14/24,13734.04,NA,73,48,FW/WT,4,2.5
+Thursday,11/14/24,13734.04,NA,73,48,Lemon,1,1
+Thursday,11/14/24,13734.04,NA,73,48,Extras,32,19
+Friday,11/15/24,18603.03,NA,63,49,BBC,5.5,2.5
+Friday,11/15/24,18603.03,NA,63,49,WC,24,14
+Friday,11/15/24,18603.03,NA,63,49,MT,16,11
+Friday,11/15/24,18603.03,NA,63,49,ST,10,5
+Friday,11/15/24,18603.03,NA,63,49,FW/WT,4,3
+Friday,11/15/24,18603.03,NA,63,49,Lemon,2,2
+Friday,11/15/24,18603.03,NA,63,49,Extras,54,32
+Saturday,11/16/24,22146.76,NA,65,44,BBC,3,2.5
+Saturday,11/16/24,22146.76,NA,65,44,WC,24,15
+Saturday,11/16/24,22146.76,NA,65,44,MT,17,6
+Saturday,11/16/24,22146.76,NA,65,44,ST,9,6
+Saturday,11/16/24,22146.76,NA,65,44,FW/WT,6,2.5
+Saturday,11/16/24,22146.76,NA,65,44,Lemon,2,1.2
+Saturday,11/16/24,22146.76,NA,65,44,Extras,52,38
+Sunday,11/17/24,23979.76,NA,69,42,BBC,4.5,2.5
+Sunday,11/17/24,23979.76,NA,69,42,WC,26,21
+Sunday,11/17/24,23979.76,NA,69,42,MT,19,11
+Sunday,11/17/24,23979.76,NA,69,42,ST,7,6
+Sunday,11/17/24,23979.76,NA,69,42,FW/WT,4,4
+Sunday,11/17/24,23979.76,NA,69,42,Lemon,2,1
+Sunday,11/17/24,23979.76,NA,69,42,Extras,44,34
+Monday,11/18/24,11994.41,NA,65,44,BBC,2,2
+Monday,11/18/24,11994.41,NA,65,44,WC,13,11
+Monday,11/18/24,11994.41,NA,65,44,MT,12,4
+Monday,11/18/24,11994.41,NA,65,44,ST,5,3
+Monday,11/18/24,11994.41,NA,65,44,FW/WT,2,2
+Monday,11/18/24,11994.41,NA,65,44,Lemon,1,1
+Monday,11/18/24,11994.41,NA,65,44,Extras,25,21
+Tuesday,11/19/24,11550.01,NA,66,44,BBC,2,1
+Tuesday,11/19/24,11550.01,NA,66,44,WC,14,11
+Tuesday,11/19/24,11550.01,NA,66,44,MT,16,6
+Tuesday,11/19/24,11550.01,NA,66,44,ST,4,2
+Tuesday,11/19/24,11550.01,NA,66,44,FW/WT,2,1.5
+Tuesday,11/19/24,11550.01,NA,66,44,Lemon,2,1
+Tuesday,11/19/24,11550.01,NA,66,44,Extras,29,21
+Wednesday,11/20/24,12624.36,NA,74,44,BBC,3,2
+Wednesday,11/20/24,12624.36,NA,74,44,WC,15,10
+Wednesday,11/20/24,12624.36,NA,74,44,MT,14,5
+Wednesday,11/20/24,12624.36,NA,74,44,ST,4,3
+Wednesday,11/20/24,12624.36,NA,74,44,FW/WT,2,1.5
+Wednesday,11/20/24,12624.36,NA,74,44,Lemon,1,0.75
+Wednesday,11/20/24,12624.36,NA,74,44,Extras,29,20
+Thursday,11/21/24,14026.74,NA,76,44,BBC,3,1.5
+Thursday,11/21/24,14026.74,NA,76,44,WC,13,10
+Thursday,11/21/24,14026.74,NA,76,44,MT,13,3.5
+Thursday,11/21/24,14026.74,NA,76,44,ST,5,4
+Thursday,11/21/24,14026.74,NA,76,44,FW/WT,2,2
+Thursday,11/21/24,14026.74,NA,76,44,Lemon,1,1
+Thursday,11/21/24,14026.74,NA,76,44,Extras,28,23
+Friday,11/22/24,18782.18,NA,72,45,BBC,5.5,2.5
+Friday,11/22/24,18782.18,NA,72,45,WC,21,15
+Friday,11/22/24,18782.18,NA,72,45,MT,13,9
+Friday,11/22/24,18782.18,NA,72,45,ST,7,7
+Friday,11/22/24,18782.18,NA,72,45,FW/WT,4,4
+Friday,11/22/24,18782.18,NA,72,45,Lemon,2,1
+Friday,11/22/24,18782.18,NA,72,45,Extras,35,28
+Saturday,11/23/24,22386.5,NA,64,48,BBC,3,2
+Saturday,11/23/24,22386.5,NA,64,48,WC,20,18
+Saturday,11/23/24,22386.5,NA,64,48,MT,16,7
+Saturday,11/23/24,22386.5,NA,64,48,ST,12,5
+Saturday,11/23/24,22386.5,NA,64,48,FW/WT,4,3.5
+Saturday,11/23/24,22386.5,NA,64,48,Lemon,2,1.5
+Saturday,11/23/24,22386.5,NA,64,48,Extras,46,36
+Sunday,11/24/24,25102.02,NA,66,52,BBC,3,3
+Sunday,11/24/24,25102.02,NA,66,52,WC,26,25
+Sunday,11/24/24,25102.02,NA,66,52,MT,17,11
+Sunday,11/24/24,25102.02,NA,66,52,ST,8,7
+Sunday,11/24/24,25102.02,NA,66,52,FW/WT,4,4
+Sunday,11/24/24,25102.02,NA,66,52,Lemon,2,1.5
+Sunday,11/24/24,25102.02,NA,66,52,Extras,43,37
+Monday,11/25/24,17190.46,NA,71,49,BBC,4,3
+Monday,11/25/24,17190.46,NA,71,49,WC,18,15
+Monday,11/25/24,17190.46,NA,71,49,MT,14,9
+Monday,11/25/24,17190.46,NA,71,49,ST,8,5
+Monday,11/25/24,17190.46,NA,71,49,FW/WT,4,4
+Monday,11/25/24,17190.46,NA,71,49,Lemon,1,1
+Monday,11/25/24,17190.46,NA,71,49,Extras,29,22
+Tuesday,11/26/24,17278.54,NA,68,50,BBC,3,2
+Tuesday,11/26/24,17278.54,NA,68,50,WC,17,15
+Tuesday,11/26/24,17278.54,NA,68,50,MT,13,6.5
+Tuesday,11/26/24,17278.54,NA,68,50,ST,5,4.5
+Tuesday,11/26/24,17278.54,NA,68,50,FW/WT,4,4
+Tuesday,11/26/24,17278.54,NA,68,50,Lemon,2,1.5
+Tuesday,11/26/24,17278.54,NA,68,50,Extras,28,26
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,BBC,5,4
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,WC,21,18
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,MT,14,10
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,ST,9,8
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,FW/WT,6,4
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,Lemon,2,2
+Wednesday,11/27/24,19197.27,Thanksgiving Eve,70,56,Extras,45,36
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,11/28/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Friday,11/29/24,29667.4,NA,74,52,BBC,4,4
+Friday,11/29/24,29667.4,NA,74,52,WC,24,24
+Friday,11/29/24,29667.4,NA,74,52,MT,14,15
+Friday,11/29/24,29667.4,NA,74,52,ST,12,12
+Friday,11/29/24,29667.4,NA,74,52,FW/WT,6,6
+Friday,11/29/24,29667.4,NA,74,52,Lemon,2,2
+Friday,11/29/24,29667.4,NA,74,52,Extras,40,37
+Saturday,11/30/24,30059.95,NA,75,51,BBC,8,4
+Saturday,11/30/24,30059.95,NA,75,51,WC,28,28
+Saturday,11/30/24,30059.95,NA,75,51,MT,23,13
+Saturday,11/30/24,30059.95,NA,75,51,ST,16,9
+Saturday,11/30/24,30059.95,NA,75,51,FW/WT,10,6
+Saturday,11/30/24,30059.95,NA,75,51,Lemon,2,1.5
+Saturday,11/30/24,30059.95,NA,75,51,Extras,56,39
+Sunday,12/1/24,24860.24,NA,73,51,BBC,8,4
+Sunday,12/1/24,24860.24,NA,73,51,WC,32,22
+Sunday,12/1/24,24860.24,NA,73,51,MT,18,8
+Sunday,12/1/24,24860.24,NA,73,51,ST,15,7
+Sunday,12/1/24,24860.24,NA,73,51,FW/WT,8,4
+Sunday,12/1/24,24860.24,NA,73,51,Lemon,2,2
+Sunday,12/1/24,24860.24,NA,73,51,Extras,60,43
+Monday,12/2/24,10032.94,NA,72,45,BBC,4,2
+Monday,12/2/24,10032.94,NA,72,45,WC,18,13
+Monday,12/2/24,10032.94,NA,72,45,MT,18,3
+Monday,12/2/24,10032.94,NA,72,45,ST,8,5
+Monday,12/2/24,10032.94,NA,72,45,FW/WT,4,4
+Monday,12/2/24,10032.94,NA,72,45,Lemon,1,1
+Monday,12/2/24,10032.94,NA,72,45,Extras,28,21
+Tuesday,12/3/24,9337.37,NA,68,49,BBC,4,2
+Tuesday,12/3/24,9337.37,NA,68,49,WC,14,10
+Tuesday,12/3/24,9337.37,NA,68,49,MT,19,2
+Tuesday,12/3/24,9337.37,NA,68,49,ST,5,3
+Tuesday,12/3/24,9337.37,NA,68,49,FW/WT,2,2
+Tuesday,12/3/24,9337.37,NA,68,49,Lemon,1,1
+Tuesday,12/3/24,9337.37,NA,68,49,Extras,28,20
+Wednesday,12/4/24,9196.48,NA,65,51,BBC,4,1
+Wednesday,12/4/24,9196.48,NA,65,51,WC,14,10.5
+Wednesday,12/4/24,9196.48,NA,65,51,MT,21,3
+Wednesday,12/4/24,9196.48,NA,65,51,ST,6,3
+Wednesday,12/4/24,9196.48,NA,65,51,FW/WT,2,1
+Wednesday,12/4/24,9196.48,NA,65,51,Lemon,1,1
+Wednesday,12/4/24,9196.48,NA,65,51,Extras,28,20
+Thursday,12/5/24,9455.36,NA,69,46,BBC,3,3
+Thursday,12/5/24,9455.36,NA,69,46,WC,13.5,10
+Thursday,12/5/24,9455.36,NA,69,46,MT,17.5,3.5
+Thursday,12/5/24,9455.36,NA,69,46,ST,5,3
+Thursday,12/5/24,9455.36,NA,69,46,FW/WT,2,2
+Thursday,12/5/24,9455.36,NA,69,46,Lemon,1,1
+Thursday,12/5/24,9455.36,NA,69,46,Extras,26,20
+Friday,12/6/24,17577.79,NA,76,46,BBC,4,2.5
+Friday,12/6/24,17577.79,NA,76,46,WC,29,15.5
+Friday,12/6/24,17577.79,NA,76,46,MT,14,7.5
+Friday,12/6/24,17577.79,NA,76,46,ST,14,5
+Friday,12/6/24,17577.79,NA,76,46,FW/WT,6,3.5
+Friday,12/6/24,17577.79,NA,76,46,Lemon,2,1.5
+Friday,12/6/24,17577.79,NA,76,46,Extras,52,31
+Saturday,12/7/24,23681.6,NA,76,46,BBC,5,2
+Saturday,12/7/24,23681.6,NA,76,46,WC,25.5,20.5
+Saturday,12/7/24,23681.6,NA,76,46,MT,18,11
+Saturday,12/7/24,23681.6,NA,76,46,ST,11,6
+Saturday,12/7/24,23681.6,NA,76,46,FW/WT,4,4
+Saturday,12/7/24,23681.6,NA,76,46,Lemon,2,1.5
+Saturday,12/7/24,23681.6,NA,76,46,Extras,46,39
+Sunday,12/8/24,21847.51,NA,68,44,BBC,5,3
+Sunday,12/8/24,21847.51,NA,68,44,WC,25,17
+Sunday,12/8/24,21847.51,NA,68,44,MT,15,6.5
+Sunday,12/8/24,21847.51,NA,68,44,ST,8,6.5
+Sunday,12/8/24,21847.51,NA,68,44,FW/WT,4,3.5
+Sunday,12/8/24,21847.51,NA,68,44,Lemon,2,1.5
+Sunday,12/8/24,21847.51,NA,68,44,Extras,48,39.5
+Monday,12/9/24,9476.2,NA,67,50,BBC,2,2
+Monday,12/9/24,9476.2,NA,67,50,WC,18,13
+Monday,12/9/24,9476.2,NA,67,50,MT,16,4
+Monday,12/9/24,9476.2,NA,67,50,ST,5.5,3.5
+Monday,12/9/24,9476.2,NA,67,50,FW/WT,4,2
+Monday,12/9/24,9476.2,NA,67,50,Lemon,1,1
+Monday,12/9/24,9476.2,NA,67,50,Extras,24.5,18
+Tuesday,12/10/24,10740.48,NA,74,51,BBC,2,1.5
+Tuesday,12/10/24,10740.48,NA,74,51,WC,15,10
+Tuesday,12/10/24,10740.48,NA,74,51,MT,16,4
+Tuesday,12/10/24,10740.48,NA,74,51,ST,4,3
+Tuesday,12/10/24,10740.48,NA,74,51,FW/WT,2,2
+Tuesday,12/10/24,10740.48,NA,74,51,Lemon,1,0.5
+Tuesday,12/10/24,10740.48,NA,74,51,Extras,26,14
+Wednesday,12/11/24,10699.59,NA,72,49,BBC,2.5,2
+Wednesday,12/11/24,10699.59,NA,72,49,WC,13,10
+Wednesday,12/11/24,10699.59,NA,72,49,MT,16,5
+Wednesday,12/11/24,10699.59,NA,72,49,ST,5,3
+Wednesday,12/11/24,10699.59,NA,72,49,FW/WT,2,1.5
+Wednesday,12/11/24,10699.59,NA,72,49,Lemon,1,0.5
+Wednesday,12/11/24,10699.59,NA,72,49,Extras,21,16.5
+Thursday,12/12/24,12413.49,NA,62,43,BBC,2.5,1.5
+Thursday,12/12/24,12413.49,NA,62,43,WC,13.5,8.5
+Thursday,12/12/24,12413.49,NA,62,43,MT,15,8
+Thursday,12/12/24,12413.49,NA,62,43,ST,4,3.5
+Thursday,12/12/24,12413.49,NA,62,43,FW/WT,2,2
+Thursday,12/12/24,12413.49,NA,62,43,Lemon,1,0.5
+Thursday,12/12/24,12413.49,NA,62,43,Extras,23,17
+Friday,12/13/24,17700.63,NA,64,46,BBC,3,2.5
+Friday,12/13/24,17700.63,NA,64,46,WC,21,13
+Friday,12/13/24,17700.63,NA,64,46,MT,15,6
+Friday,12/13/24,17700.63,NA,64,46,ST,6,5
+Friday,12/13/24,17700.63,NA,64,46,FW/WT,4,1.5
+Friday,12/13/24,17700.63,NA,64,46,Lemon,2,1.5
+Friday,12/13/24,17700.63,NA,64,46,Extras,42,32
+Saturday,12/14/24,23243.96,NA,66,45,BBC,2.5,2.5
+Saturday,12/14/24,23243.96,NA,66,45,WC,20,18
+Saturday,12/14/24,23243.96,NA,66,45,MT,17,7
+Saturday,12/14/24,23243.96,NA,66,45,ST,9,5
+Saturday,12/14/24,23243.96,NA,66,45,FW/WT,4,4
+Saturday,12/14/24,23243.96,NA,66,45,Lemon,2,2
+Saturday,12/14/24,23243.96,NA,66,45,Extras,44,37
+Sunday,12/15/24,24293.92,NA,67,48,BBC,4,4
+Sunday,12/15/24,24293.92,NA,67,48,WC,22,22
+Sunday,12/15/24,24293.92,NA,67,48,MT,14,8
+Sunday,12/15/24,24293.92,NA,67,48,ST,8,7
+Sunday,12/15/24,24293.92,NA,67,48,FW/WT,4,4
+Sunday,12/15/24,24293.92,NA,67,48,Lemon,2,2
+Sunday,12/15/24,24293.92,NA,67,48,Extras,47,42
+Monday,12/16/24,12381.35,NA,71,44,BBC,2,1
+Monday,12/16/24,12381.35,NA,71,44,WC,16,11
+Monday,12/16/24,12381.35,NA,71,44,MT,14,5
+Monday,12/16/24,12381.35,NA,71,44,ST,5,4
+Monday,12/16/24,12381.35,NA,71,44,FW/WT,4,2
+Monday,12/16/24,12381.35,NA,71,44,Lemon,1,0.5
+Monday,12/16/24,12381.35,NA,71,44,Extras,26,21
+Tuesday,12/17/24,11789.46,NA,42,45,BBC,2.5,1.5
+Tuesday,12/17/24,11789.46,NA,42,45,WC,15,9
+Tuesday,12/17/24,11789.46,NA,42,45,MT,13,5.5
+Tuesday,12/17/24,11789.46,NA,42,45,ST,5,3
+Tuesday,12/17/24,11789.46,NA,42,45,FW/WT,2,1.5
+Tuesday,12/17/24,11789.46,NA,42,45,Lemon,1,1
+Tuesday,12/17/24,11789.46,NA,42,45,Extras,25,7
+Wednesday,12/18/24,15010.9,NA,79,55,BBC,2.5,1.5
+Wednesday,12/18/24,15010.9,NA,79,55,WC,15,11
+Wednesday,12/18/24,15010.9,NA,79,55,MT,15,5.5
+Wednesday,12/18/24,15010.9,NA,79,55,ST,5,4
+Wednesday,12/18/24,15010.9,NA,79,55,FW/WT,3,1.5
+Wednesday,12/18/24,15010.9,NA,79,55,Lemon,1,0.5
+Wednesday,12/18/24,15010.9,NA,79,55,Extras,29,25
+Thursday,12/19/24,14881.07,NA,75,48,BBC,3.5,1.5
+Thursday,12/19/24,14881.07,NA,75,48,WC,13,10
+Thursday,12/19/24,14881.07,NA,75,48,MT,14,8
+Thursday,12/19/24,14881.07,NA,75,48,ST,5,4
+Thursday,12/19/24,14881.07,NA,75,48,FW/WT,4,2.5
+Thursday,12/19/24,14881.07,NA,75,48,Lemon,1,0.5
+Thursday,12/19/24,14881.07,NA,75,48,Extras,35,26.5
+Friday,12/20/24,19104.07,NA,68,49,BBC,4,3
+Friday,12/20/24,19104.07,NA,68,49,WC,17,17.5
+Friday,12/20/24,19104.07,NA,68,49,MT,14,6
+Friday,12/20/24,19104.07,NA,68,49,ST,7,5
+Friday,12/20/24,19104.07,NA,68,49,FW/WT,4,2.5
+Friday,12/20/24,19104.07,NA,68,49,Lemon,2,2
+Friday,12/20/24,19104.07,NA,68,49,Extras,41.5,36
+Saturday,12/21/24,21478.93,NA,68,44,BBC,5,3
+Saturday,12/21/24,21478.93,NA,68,44,WC,21,15
+Saturday,12/21/24,21478.93,NA,68,44,MT,16,7
+Saturday,12/21/24,21478.93,NA,68,44,ST,10,6
+Saturday,12/21/24,21478.93,NA,68,44,FW/WT,6,3.5
+Saturday,12/21/24,21478.93,NA,68,44,Lemon,2,1.5
+Saturday,12/21/24,21478.93,NA,68,44,Extras,50,31.5
+Sunday,12/22/24,21488,NA,67,47,BBC,4,2.5
+Sunday,12/22/24,21488,NA,67,47,WC,26,18
+Sunday,12/22/24,21488,NA,67,47,MT,21,7
+Sunday,12/22/24,21488,NA,67,47,ST,14,6
+Sunday,12/22/24,21488,NA,67,47,FW/WT,4,3
+Sunday,12/22/24,21488,NA,67,47,Lemon,2,1.5
+Sunday,12/22/24,21488,NA,67,47,Extras,46.5,35
+Monday,12/23/24,19479.49,Quart Promo,68,51,BBC,3.5,3
+Monday,12/23/24,19479.49,Quart Promo,68,51,WC,20,18
+Monday,12/23/24,19479.49,Quart Promo,68,51,MT,18,10
+Monday,12/23/24,19479.49,Quart Promo,68,51,ST,8,6
+Monday,12/23/24,19479.49,Quart Promo,68,51,FW/WT,4,3.5
+Monday,12/23/24,19479.49,Quart Promo,68,51,Lemon,2,2
+Monday,12/23/24,19479.49,Quart Promo,68,51,Extras,36,25.5
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Tuesday,12/24/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Wednesday,12/25/24,Closed,Closed,Closed,Closed,Closed,Closed,Closed
+Thursday,12/26/24,22563.32,NA,67,46,BBC,2,2
+Thursday,12/26/24,22563.32,NA,67,46,WC,20,20
+Thursday,12/26/24,22563.32,NA,67,46,MT,12,11
+Thursday,12/26/24,22563.32,NA,67,46,ST,6,6
+Thursday,12/26/24,22563.32,NA,67,46,FW/WT,4,4
+Thursday,12/26/24,22563.32,NA,67,46,Lemon,2,2
+Thursday,12/26/24,22563.32,NA,67,46,Extras,46,38.5
+Friday,12/27/24,24544.46,NA,64,48,BBC,4,3.5
+Friday,12/27/24,24544.46,NA,64,48,WC,28,21
+Friday,12/27/24,24544.46,NA,64,48,MT,24,10
+Friday,12/27/24,24544.46,NA,64,48,ST,10,7
+Friday,12/27/24,24544.46,NA,64,48,FW/WT,6,5.5
+Friday,12/27/24,24544.46,NA,64,48,Lemon,2,2
+Friday,12/27/24,24544.46,NA,64,48,Extras,52,42
+Saturday,12/28/24,26590.85,NA,66,55,BBC,6.5,3.5
+Saturday,12/28/24,26590.85,NA,66,55,WC,27,20.5
+Saturday,12/28/24,26590.85,NA,66,55,MT,22,10
+Saturday,12/28/24,26590.85,NA,66,55,ST,9,6
+Saturday,12/28/24,26590.85,NA,66,55,FW/WT,4,4
+Saturday,12/28/24,26590.85,NA,66,55,Lemon,2,2
+Saturday,12/28/24,26590.85,NA,66,55,Extras,58,47
+Sunday,12/29/24,25278.2,NA,66,48,BBC,5,3
+Sunday,12/29/24,25278.2,NA,66,48,WC,26.5,16.5
+Sunday,12/29/24,25278.2,NA,66,48,MT,20,9.5
+Sunday,12/29/24,25278.2,NA,66,48,ST,10.5,6.5
+Sunday,12/29/24,25278.2,NA,66,48,FW/WT,6,5.5
+Sunday,12/29/24,25278.2,NA,66,48,Lemon,2,1.5
+Sunday,12/29/24,25278.2,NA,66,48,Extras,58.5,51.5
+Monday,12/30/24,17894.46,NA,65,50,BBC,4,3.5
+Monday,12/30/24,17894.46,NA,65,50,WC,22,8.5
+Monday,12/30/24,17894.46,NA,65,50,MT,19.5,7.5
+Monday,12/30/24,17894.46,NA,65,50,ST,9.5,2
+Monday,12/30/24,17894.46,NA,65,50,FW/WT,4,1.5
+Monday,12/30/24,17894.46,NA,65,50,Lemon,2,1.5
+Monday,12/30/24,17894.46,NA,65,50,Extras,46,35.5
+Tuesday,12/31/24,13260.68,NA,64,47,BBC,3,3
+Tuesday,12/31/24,13260.68,NA,64,47,WC,17,7
+Tuesday,12/31/24,13260.68,NA,64,47,MT,19,5
+Tuesday,12/31/24,13260.68,NA,64,47,ST,8,3
+Tuesday,12/31/24,13260.68,NA,64,47,FW/WT,4,1
+Tuesday,12/31/24,13260.68,NA,64,47,Lemon,2,1.5
+Tuesday,12/31/24,13260.68,NA,64,47,Extras,41,27
